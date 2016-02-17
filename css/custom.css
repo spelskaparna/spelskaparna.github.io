@@ -57,6 +57,11 @@
 }
 
 
+html{
+	/* Ensure the html element always takes up the full height of the browser window */
+	min-height:100%;
+}
+
 body {
   background: rgb(61,109,136); /* For browsers that do not support gradients */
   background: -webkit-radial-gradient(rgb(61,109,136), rgb(20,33,41)); /* Safari 5.1 to 6.0 */
