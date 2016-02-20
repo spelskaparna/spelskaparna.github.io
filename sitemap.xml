@@ -3,18 +3,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>spelskaprna.com/</loc>
+      <loc>http://www.spelskaparna.com/</loc>
     <lastmod>2016-02-17T17:09:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-      <loc>spelskaparna.com/episode/</loc>
+      <loc>http://www.spelskaparna.com/episode/</loc>
     <lastmod>2016-02-17T17:09:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>spelskaparna.com/about/</loc>
+      <loc>http://www.spelskaparna.com/about/</loc>
     <lastmod>2014-06-23T20:23:30+00:00</lastmod>
   </url>
   
