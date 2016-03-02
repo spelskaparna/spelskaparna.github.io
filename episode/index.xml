@@ -18,10 +18,10 @@
       <guid>/episode/2/</guid>
       <description>
 
-&lt;div class=&#34;description-container&#34;&gt;
+&lt;div class=&#34;description-container&#34; &gt;
 		&lt;p class=&#34;description-text&#34;&gt;&lt;p&gt;Huvudpersonen i detta avsnitt är Jonas Lund. Han jobbade som utvecklare på företaget Amuze som fanns i början av 2000-talet. Amuze låg bakom Headhunter-spelen som kom till PS2, dreamcast och xbox. Nu för tiden jobbar Jonas med en egen firma. Bilden på Jonas är från tiden på Amuze.&lt;/p&gt;
 &lt;/p&gt;
-	 	&lt;div class=&#34;description-img-wrapper&#34;&gt;&lt;img  src=&#34;/img/jonas.jpg&#34;/&gt;&lt;/div&gt;
+	 	&lt;div class=&#34;description-img-wrapper&#34;&gt;&lt;img  class=&#34;description-img&#34; src=&#34;/img/jonas.jpg&#34;/&gt;&lt;/div&gt;
 &lt;/div&gt;
 
 
@@ -91,10 +91,10 @@
       <guid>/episode/1/</guid>
       <description>
 
-&lt;div class=&#34;description-container&#34;&gt;
+&lt;div class=&#34;description-container&#34; &gt;
 		&lt;p class=&#34;description-text&#34;&gt;&lt;p&gt;I detta första avsnitt av Spelskaparna träffar vi Klaus Lyngeled som började sin karriär som grafiker, men som nu även är VD på Zoink Games. Klaus första spel Slam Tilt släpptes till Amiga 1996. Han berättar även om tiden på UDS i Norrköping och Shiny Entertainment i USA. Missa inte klippet nedan där vi kan se en ung Klaus på UDS kontor, från ett inslag ur Östnytt.&lt;/p&gt;
 &lt;/p&gt;
-	 	&lt;div class=&#34;description-img-wrapper&#34;&gt;&lt;img  src=&#34;/img/klaus.jpg&#34;/&gt;&lt;/div&gt;
+	 	&lt;div class=&#34;description-img-wrapper&#34;&gt;&lt;img  class=&#34;description-img&#34; src=&#34;/img/klaus.jpg&#34;/&gt;&lt;/div&gt;
 &lt;/div&gt;
 
 
