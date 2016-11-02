@@ -7,8 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 14 Sep 2016 01:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Nov 2016 01:09:44 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Spelskaparna 17 - Martin Magni (Programmering/Design/Grafik | Mekorama)</title>
+      <link>/episode/17/</link>
+      <pubDate>Wed, 02 Nov 2016 01:09:44 +0000</pubDate>
+      
+      <guid>/episode/17/</guid>
+      <description>
+
+&lt;div class=&#34;description-container&#34; &gt;
+		&lt;p class=&#34;description-text&#34;&gt;&lt;p&gt;Martin Magni är AI-forskaren som blev spelskapare och som valde att
+flytta till Åtvidaberg för att där, isolerad, kunna jobba extremt
+produktivt. Han gör allting i sina spel själv - grafik, ljud, design och
+programmering. Hans mest kända spel hittils är mobilspelet Mekorama.&lt;/p&gt;
+&lt;/p&gt;
+	 	&lt;div class=&#34;description-img-wrapper&#34;&gt;&lt;img  class=&#34;description-img&#34; src=&#34;/img/martinmagni.jpg&#34;/&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;länkar:8ab06f9a4093dbea0d581b89e7fcf8e6&#34;&gt;Länkar&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0zGOqc5jsgQ&#34;&gt;Jump&amp;rsquo;n bump&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lisp_(programming_language)&#34;&gt;LISP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Inference&#34;&gt;Inference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Automated_planning_and_scheduling&#34;&gt;Planering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.assetstore.unity3d.com/&#34;&gt;Unity Asset Store&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UOlXMcUFtnQ&#34;&gt;Blocks World&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=M-fLYhKvYJU&#34;&gt;Brain Builder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lean_startup#Pivot&#34;&gt;Pivot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nordicgameprogram.org/&#34;&gt;Noric Game Program&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lindenlab.com/&#34;&gt;Linden Lab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=GgNcTxgCMLQ&#34;&gt;Second Life&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mediocre.se/&#34;&gt;Mediocre Games&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MA9rigt5MiI&#34;&gt;Smash Hit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://toucharcade.com/&#34;&gt;Touch Arcade&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=X59pbQgfLmQ&#34;&gt;Odd Bot Out&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vaSJyEDmgWA&#34;&gt;Mekoroma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=q55RJ41hv4c&#34;&gt;FEZ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Run-length_encoding&#34;&gt;Run-length encoding&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jaan_Tallinn&#34;&gt;Jaan Tallinn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://io9.gizmodo.com/why-you-should-upload-yourself-to-a-supercomputer-1497856380&#34;&gt;Uploading&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=k90y6PIzIaE&#34;&gt;Geometry Dash&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Spelskaparna 16 - Åsa Roos (Speldesigner | Bioware)</title>
@@ -825,79 +872,6 @@ UDS.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md&#34;&gt;JaiPrimer&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Dj3lkfIEUyA&#34;&gt;Array of Structures versus Structure of Arrays&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://collectingsmiles.com/&#34;&gt;Collecting Smiles&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Spelskaparna 2 - Jonas Lund (Programmerare | Amuze)</title>
-      <link>/episode/2/</link>
-      <pubDate>Wed, 02 Mar 2016 17:09:44 +0000</pubDate>
-      
-      <guid>/episode/2/</guid>
-      <description>
-
-&lt;div class=&#34;description-container&#34; &gt;
-		&lt;p class=&#34;description-text&#34;&gt;&lt;p&gt;Huvudpersonen i detta avsnitt är Jonas Lund. Han jobbade som utvecklare på företaget Amuze som fanns i början av 2000-talet. Amuze låg bakom Headhunter-spelen som kom till PS2, dreamcast och xbox. Nu för tiden jobbar Jonas med en egen firma. Bilden på Jonas är från tiden på Amuze.&lt;/p&gt;
-&lt;/p&gt;
-	 	&lt;div class=&#34;description-img-wrapper&#34;&gt;&lt;img  class=&#34;description-img&#34; src=&#34;/img/jonas.jpg&#34;/&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h1 id=&#34;länkar:f5776ce002083f17f7a8f8f37568a092&#34;&gt;Länkar&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amuze&#34;&gt;Amuze&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vLORkWBgoQ4&#34;&gt;Headhunter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.dice.se/&#34;&gt;Dice&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/patrickbach&#34;&gt;Patrik Bach&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Inbetweening&#34;&gt;Tweening&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dreamcast&#34;&gt;Dreamcast&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OBXpTMGyYXg&#34;&gt;Metal Gear Solid 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://avalanchestudios.com/&#34;&gt;Avalanche&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.kth.se/&#34;&gt;KTH&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HB8HD5peoNs&#34;&gt;Headhunter: Redemption&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://alvinalexander.com/design/norman-doors-design-photos-software-design&#34;&gt;Norman doors&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.blender.org/&#34;&gt;Blender&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/JavaScript&#34;&gt;JavaScript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Google_Web_Toolkit&#34;&gt;Gwt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/WebGL&#34;&gt;Webgl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Just-in-time_compilation&#34;&gt;JIT compilation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MwuUGBx4w9Q&#34;&gt;C64 tonhuvudsljustering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/BASIC&#34;&gt;Basic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Visual_Basic&#34;&gt;Visual basic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C_(programming_language&#34;&gt;C&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C%2B%2B&#34;&gt;C++&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Java_(programming_language)&#34;&gt;Java&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Assembly_language&#34;&gt;Assembler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.simple.com/&#34;&gt;Simple (banks)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.r-project.org/about.html&#34;&gt;R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amiga&#34;&gt;Amiga&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://on.edis.nu/&#34;&gt;Edison demo party&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/64K_intro&#34;&gt;64k intro&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.assembly.org/winter16&#34;&gt;Assembly&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://unity3d.com/&#34;&gt;Unity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dreamhack.se/splash/&#34;&gt;Dreamhack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sverigesradio.se/sida/avsnitt/86934?programid=2519&#34;&gt;Diskoteksbranden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ludumdare.com/compo/&#34;&gt;Lundum dare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.e-game.com&#34;&gt;E-game&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.e-game.com/Game/Details/13&#34;&gt;Knasen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kth.se/utbildning/civilingenjor/medieteknik/utbildningsbeskrivning-1.4150&#34;&gt;Medieteknik&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Internet_Relay_Chat&#34;&gt;IRC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Flip-flop_(electronics)&#34;&gt;Flip-flop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Grand_Theft_Auto_(series)&#34;&gt;GTA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/FIFA_(video_game_series)&#34;&gt;Fifa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://supercell.com/en/games/clashofclans/&#34;&gt;Clash of Clans&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://eune.leagueoflegends.com/&#34;&gt;Leauge of Legends&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.crossyroad.com/&#34;&gt;Crossy road&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.yoyogames.com/gamemaker&#34;&gt;GameMaker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alex_Evans_(video_game_developer)&#34;&gt;Alex Evans&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Media_Molecule&#34;&gt;Media Molecule&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bullfrog_Productions&#34;&gt;Bullfrog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Peter_Molyneux&#34;&gt;Peter Molyneux&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lionhead_Studios&#34;&gt;Lionhead&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AGzOKbVC2r8&#34;&gt;Little Big Planet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2t9ULyYGN-s&#34;&gt;Black &amp;amp; White&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
