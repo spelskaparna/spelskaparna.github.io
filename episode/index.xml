@@ -7,8 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 25 Jan 2017 01:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Feb 2017 01:09:44 +0000</lastBuildDate>
     <atom:link href="/episode/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>/episode/24/</link>
+      <pubDate>Wed, 08 Feb 2017 01:09:44 +0000</pubDate>
+      
+      <guid>/episode/24/</guid>
+      <description>&lt;p&gt;Andreas Tadic var med och startade Team17 och skapade där
+klassiska spel så som Superfrog och Alien Breed. Sedan dess har han
+hunnit med att driva eget, jobba flera år på Avalanche för att nu landa
+på spelmotorutveckling med Defold på King.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://janeway.exotica.org.uk/author.php?id=38579&#34;&gt;Crack Force Five&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Team17&#34;&gt;17-Bit Software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.retrogamer.net/profiles/developer/martyn-brown-2/&#34;&gt;Martyn Brown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=KnR1AKuq2aI&#34;&gt;Miami Chase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Codemasters&#34;&gt;Codemasters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=s_Mjn5mxuA0&#34;&gt;Full Contact&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9HbLp8HoEEk&#34;&gt;Project-X&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Blitter&#34;&gt;Bliter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=CfZtX8Vj4s0&amp;amp;t=2119s&#34;&gt;Alien Breed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5fF1OYaobPA&#34;&gt;Deluxe Paint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=lyUo4siRD0I&#34;&gt;Gauntlet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LjLamj-b0I8&#34;&gt;Alien&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Allister_Brimble&#34;&gt;Allister Brimble&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Io6eK3ogtQg&#34;&gt;Alien Breed - Tower Assault&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_u6aoafgCSI&amp;amp;t=1758s&#34;&gt;X2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Parallax&#34;&gt;Parallax&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Capcom&#34;&gt;Capcom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=c1iDQtFUX2k&#34;&gt;Superfrog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DkYYybdDTc8&#34;&gt;Worms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/European_Computer_Trade_Show&#34;&gt;ECTS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Linear_algebra&#34;&gt;Linjär Algebra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/FreshGames&#34;&gt;FreshGames&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Avalanche_Studios&#34;&gt;Avalanche Studios&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=oTXqYg_S4Ps&#34;&gt;Just Cause 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.defold.com/&#34;&gt;Defold&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.autodesk.com/products/maya/overview&#34;&gt;Maya&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.autodesk.com/products/3ds-max/overview&#34;&gt;3DS Max&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C_(programming_language)&#34;&gt;C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C%2B%2B&#34;&gt;C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Object-oriented_programming&#34;&gt;Objektorientering&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -702,82 +749,6 @@ att sista delen till the Dream Machine är släppt.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/John_C._Lilly&#34;&gt;John C. Lily&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hunter_S._Thompson&#34;&gt;Hunter S Thompson&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/William_S._Burroughs&#34;&gt;William S. Burroughs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Spelskaparna 9 - Christofer Sundberg  (Grundare | Avalanche Studios)</title>
-      <link>/episode/9/</link>
-      <pubDate>Wed, 08 Jun 2016 17:09:44 +0000</pubDate>
-      
-      <guid>/episode/9/</guid>
-      <description>
-
-&lt;div class=&#34;description-container&#34; &gt;
-		&lt;p class=&#34;description-text&#34;&gt;&lt;p&gt;Christofer är en av två grundare bakom Avalanche Studios, men han har tidigare
-bland annat jobbat för företag som Paradox, EA och SEGA. I början av
-karriären handlade mycket av arbetet om disturbing och marknadsföring,
-men han hann även med att ansvara för lokaliseringen av första versionen
-av Fifa. Idag jobbar han vidare med Avalanche studios och inte minst
-spelserien Just Cause, vilken han ligger bakom.&lt;/p&gt;
-&lt;/p&gt;
-	 	&lt;div class=&#34;description-img-wrapper&#34;&gt;&lt;img  class=&#34;description-img&#34; src=&#34;/img/christofer.jpg&#34;/&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h1 id=&#34;länkar&#34;&gt;Länkar&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Stugan&#34;&gt;Stugan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Commodore_VIC-20&#34;&gt;VIC-20&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dragon_32/64&#34;&gt;Dragon 32&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=14VhVDkXME0&#34;&gt;Fifa International Soccer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sierra_Entertainment&#34;&gt;Sierra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https//en.wikipedia.org/wiki/Activision&#34;&gt;Activision&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jr2MDSdxcsA&#34;&gt;Starcraft&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Blizzard&#34;&gt;Blizzard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Interplay_Entertainment&#34;&gt;Interplay&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7IHGRT7zhGI&#34;&gt;Baldurs Gate&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Black_Isle_Studios&#34;&gt;Black Isle Studios&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5lgMrJpnnhM&#34;&gt;Fallout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MDcVoKYTgWA&#34;&gt;Descent&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Y2EBnYYELP8&#34;&gt;Jimmy White&amp;rsquo;s 2: Cueball&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Bioware&#34;&gt;Bioware&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Shattered_Steel&#34;&gt;Shattered Steel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Target_Games&#34;&gt;Target Games&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Paradox_Entertainment_AB&#34;&gt;Paradox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=J_7K97CnRHw&#34;&gt;Dogfighter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mutant_Chronicles&#34;&gt;Mutant Chronicles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kult_(role-playing_game)&#34;&gt;Kult&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.chronopiaworld.com/&#34;&gt;Chronopia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.svd.se/han-satte-allt-pa-spel-och-skapade-sin-varld&#34;&gt;Linus Blomberg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=x6m4DwkYgGs&#34;&gt;Elite&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fDznDEDi7GU&#34;&gt;Valhalla Chronicles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dragon_Empires&#34;&gt;Dragon Empires&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Starbreeze_Studios&#34;&gt;Starbreeze&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=liJfZvXdiTE&#34;&gt;Tremors&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.mobygames.com/company/oblivion-entertainment&#34;&gt;Oblivion/Korkeken&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dgaz0xGhBJo&#34;&gt;Just Cause&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Eidos_Interactive&#34;&gt;Eidos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amuze&#34;&gt;Amuze&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thehunter.com/landing?src=&#34;&gt;The Hunter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/THQ&#34;&gt;THQ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Square_Enix_Europe&#34;&gt;SCi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.expansiveworlds.com/&#34;&gt;Expansive Worlds&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/arnroth?lang=en&#34;&gt;Thomas Arnroth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=GP_h4KUSdO0&#34;&gt;Renegade Ops&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sega&#34;&gt;Sega&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9hDPmTvqob0&#34;&gt;Mad Max&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Square_Enix&#34;&gt;Square Enix&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rockstar_Games&#34;&gt;Rockstar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=a2gHHfO0o68&#34;&gt;Hunter Primal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=sY1S34973zA&#34;&gt;Gudfadern&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7pQQHnqBa2E&#34;&gt;Scarface&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=mU3nNT4rcFg&#34;&gt;Journey&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=kZX3MgsRb0A&#34;&gt;Firewatch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=uqtSKkyJgFM&#34;&gt;Braid&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9ytwNUMdbcE&#34;&gt;The Witness&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
