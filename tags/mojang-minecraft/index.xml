@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mojang Minecraft on Spelskaparna</title>
+    <link>/tags/mojang-minecraft/index.xml</link>
+    <description>Recent content in Mojang Minecraft on Spelskaparna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
+    <atom:link href="/tags/mojang-minecraft/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>/episode/18/</link>
+      <pubDate>Wed, 16 Nov 2016 01:09:44 +0000</pubDate>
+      
+      <guid>/episode/18/</guid>
+      <description>
+
+&lt;div class=&#34;description-container&#34; &gt;
+		&lt;p class=&#34;description-text&#34;&gt;&lt;p&gt;Daniel började sin spelkarriär på spelutbildningen i Skövde, men hamnade
+snabbt som affärsutvecklare på Mojang. Där har han sedan varit med på
+den galna resa som Mojang haft och idag driver han
+utvecklingen av Minecraft.&lt;/p&gt;
+&lt;/p&gt;
+	 	&lt;div class=&#34;description-img-wrapper&#34;&gt;&lt;img  class=&#34;description-img&#34; src=&#34;/img/daniel.jpg&#34;/&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;länkar&#34;&gt;Länkar&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sector3studios.com/&#34;&gt;Sector3 Studios (fd. SinBin)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ludosity.com/&#34;&gt;Ludocity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nomoresweden.com/&#34;&gt;No More Sweden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Southend_Interactive&#34;&gt;Southend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.valvesoftware.com/&#34;&gt;Valve&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tigsource.com/&#34;&gt;Tigsource&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gdconf.com/&#34;&gt;GDC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ideas.lego.com/&#34;&gt;Lego Cuusoo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Denial-of-service_attack&#34;&gt;DDOS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kotaku.com/&#34;&gt;Kotaku&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gamespot.com/&#34;&gt;Gamespot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Non-disclosure_agreement&#34;&gt;NDA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.igf.com/&#34;&gt;IGF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/R%C3%B6yksopp&#34;&gt;Röyksopp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tigsource.com/&#34;&gt;Tigsource&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cactusquid.blogspot.se/&#34;&gt;Cactus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eriksvedang.com/&#34;&gt;Erik Svedäng&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://grapefrukt.com/&#34;&gt;Grapefrukt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.crayonphysics.com/&#34;&gt;Crayon Physics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Napster&#34;&gt;Napster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bigpoint.net/&#34;&gt;Big Point&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://minecraft.net/en/minecon/&#34;&gt;Minecon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.yoyogames.com/&#34;&gt;GameMaker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://madewith.unity.com/&#34;&gt;Unity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
