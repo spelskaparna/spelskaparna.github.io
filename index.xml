@@ -18,9 +18,14 @@
       <guid>/episode/29/</guid>
       <description>
 
-&lt;p&gt;I detta specialavsnitt av Spelskaparna får du höra hur det gick till
+&lt;div class=&#34;description-container&#34; &gt;
+		&lt;p class=&#34;description-text&#34;&gt;&lt;p&gt;I detta specialavsnitt av Spelskaparna får du höra hur det gick till
 när mina medgrundare och jag skapade Quizkampen och FEO Media. En tripp längs minnenas alé med mycket
 skratt och nostalgi.&lt;/p&gt;
+&lt;/p&gt;
+	 	&lt;div class=&#34;description-img-wrapper&#34;&gt;&lt;img  class=&#34;description-img&#34; src=&#34;/img/feanerna.jpg&#34;/&gt;&lt;/div&gt;
+&lt;/div&gt;
+
 
 &lt;h1 id=&#34;länkar&#34;&gt;Länkar&lt;/h1&gt;
 
