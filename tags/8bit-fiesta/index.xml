@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>8bit Fiesta on Spelskaparna</title>
-    <link>/tags/8bit-fiesta/index.xml</link>
+    <link>/tags/8bit-fiesta/</link>
     <description>Recent content in 8bit Fiesta on Spelskaparna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <atom:link href="/tags/8bit-fiesta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jul 2017 14:09:44 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/8bit-fiesta/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title></title>
@@ -15,31 +18,8 @@
       <pubDate>Sun, 23 Jul 2017 14:09:44 +0000</pubDate>
       
       <guid>/episode/28/</guid>
-      <description>
-
-&lt;div class=&#34;description-container&#34; &gt;
-		&lt;p class=&#34;description-text&#34;&gt;&lt;p&gt;För bara två år sedan arbetade Linus med E-handel, idag kan han leva på
-sin enmansstudio. I detta avsnitt får vi höra om hur det gick till!&lt;/p&gt;
-&lt;/p&gt;
-	 	&lt;div class=&#34;description-img-wrapper&#34;&gt;&lt;img  class=&#34;description-img&#34; src=&#34;/img/linus.png&#34;/&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h1 id=&#34;länkar&#34;&gt;Länkar&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Adobe_Flash&#34;&gt;Flash&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Unreal_Engine#Unreal_Development_Kit&#34;&gt;UDK&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.unrealengine.com/udk/Three/KismetUserGuide.html&#34;&gt;Kismet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.unrealengine.com/what-is-unreal-engine-4&#34;&gt;Unreal Engine&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://unity3d.com/&#34;&gt;Unity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.oculus.com/rift/&#34;&gt;Oculus Rift&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qFf6BZUPwJg&#34;&gt;8Bit Fiesta&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=L69Z39bgdU4&#34;&gt;Mario Party&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9IbPrk-yuts&#34;&gt;Dark Souls&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.valvesoftware.com/&#34;&gt;Vavle&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> För bara två år sedan arbetade Linus med E-handel, idag kan han leva på sin enmansstudio. I detta avsnitt får vi höra om hur det gick till!
+  Länkar  Flash UDK Kismet Unreal Engine Unity Oculus Rift 8Bit Fiesta Mario Party Dark Souls Vavle  </description>
     </item>
     
   </channel>

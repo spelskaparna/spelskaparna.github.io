@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alien Breed Amiga Team17 Superfrog Project Xx2 on Spelskaparna</title>
-    <link>/tags/alien-breed-amiga-team17-superfrog-project-xx2/index.xml</link>
+    <link>/tags/alien-breed-amiga-team17-superfrog-project-xx2/</link>
     <description>Recent content in Alien Breed Amiga Team17 Superfrog Project Xx2 on Spelskaparna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <atom:link href="/tags/alien-breed-amiga-team17-superfrog-project-xx2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Feb 2017 01:09:44 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/alien-breed-amiga-team17-superfrog-project-xx2/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title></title>
@@ -15,45 +18,8 @@
       <pubDate>Wed, 08 Feb 2017 01:09:44 +0000</pubDate>
       
       <guid>/episode/24/</guid>
-      <description>&lt;p&gt;Andreas Tadic var med och startade Team17 och skapade där
-klassiska spel så som Superfrog och Alien Breed. Sedan dess har han
-hunnit med att driva eget, jobba flera år på Avalanche för att nu landa
-på spelmotorutveckling med Defold på King.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://janeway.exotica.org.uk/author.php?id=38579&#34;&gt;Crack Force Five&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Team17&#34;&gt;17-Bit Software&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.retrogamer.net/profiles/developer/martyn-brown-2/&#34;&gt;Martyn Brown&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=KnR1AKuq2aI&#34;&gt;Miami Chase&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Codemasters&#34;&gt;Codemasters&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=s_Mjn5mxuA0&#34;&gt;Full Contact&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9HbLp8HoEEk&#34;&gt;Project-X&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Blitter&#34;&gt;Bliter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=CfZtX8Vj4s0&amp;amp;t=2119s&#34;&gt;Alien Breed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5fF1OYaobPA&#34;&gt;Deluxe Paint&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=lyUo4siRD0I&#34;&gt;Gauntlet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LjLamj-b0I8&#34;&gt;Alien&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Allister_Brimble&#34;&gt;Allister Brimble&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Io6eK3ogtQg&#34;&gt;Alien Breed - Tower Assault&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_u6aoafgCSI&amp;amp;t=1758s&#34;&gt;X2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Parallax&#34;&gt;Parallax&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Capcom&#34;&gt;Capcom&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=c1iDQtFUX2k&#34;&gt;Superfrog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DkYYybdDTc8&#34;&gt;Worms&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/European_Computer_Trade_Show&#34;&gt;ECTS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Linear_algebra&#34;&gt;Linjär Algebra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/FreshGames&#34;&gt;FreshGames&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Avalanche_Studios&#34;&gt;Avalanche Studios&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=oTXqYg_S4Ps&#34;&gt;Just Cause 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.defold.com/&#34;&gt;Defold&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.autodesk.com/products/maya/overview&#34;&gt;Maya&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.autodesk.com/products/3ds-max/overview&#34;&gt;3DS Max&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C_(programming_language)&#34;&gt;C&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C%2B%2B&#34;&gt;C++&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Object-oriented_programming&#34;&gt;Objektorientering&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Andreas Tadic var med och startade Team17 och skapade där klassiska spel så som Superfrog och Alien Breed. Sedan dess har han hunnit med att driva eget, jobba flera år på Avalanche för att nu landa på spelmotorutveckling med Defold på King.
+ Crack Force Five 17-Bit Software Martyn Brown Miami Chase Codemasters Full Contact Project-X Bliter Alien Breed Deluxe Paint Gauntlet Alien Allister Brimble Alien Breed - Tower Assault X2 Parallax Capcom Superfrog Worms ECTS Linjär Algebra FreshGames Avalanche Studios Just Cause 2 Defold Maya 3DS Max Python C C++ Objektorientering  </description>
     </item>
     
   </channel>
