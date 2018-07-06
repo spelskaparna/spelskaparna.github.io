@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nord Journey Down on Spelskaparna</title>
+    <link>/tags/nord-journey-down/</link>
+    <description>Recent content in Nord Journey Down on Spelskaparna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 04 Jul 2018 15:09:44 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/nord-journey-down/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/episode/46/</link>
+      <pubDate>Wed, 04 Jul 2018 15:09:44 +0000</pubDate>
+      
+      <guid>/episode/46/</guid>
+      <description>I veckans avsnitt av Spelskaparna samtalar jag med Theodor Waern på Skygoblin. Det blev ett långt samtal och väljer därför att släppa en liten specialare i form av två stycken avsnitt. I första pratar vi mycket om spelet Nord som Theo var med och rattade. I andra avsnittet pratar vi nästan uteslutande om The Journey down som efter sju år nått sitt slut. Vi får även höra om svårigheterna med att ha kontor på Zanzibar.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/episode/45/</link>
+      <pubDate>Wed, 04 Jul 2018 14:09:44 +0000</pubDate>
+      
+      <guid>/episode/45/</guid>
+      <description>I veckans avsnitt av Spelskaparna samtalar jag med Theodor Waern på Skygoblin. Det blev ett långt samtal och väljer därför att släppa en liten specialare i form av två stycken avsnitt. I första pratar vi mycket om spelet Nord som Theo var med och rattade. I andra avsnittet pratar vi nästan uteslutande om The Journey down som efter sju år nått sitt slut. Vi får även höra om svårigheterna med att ha kontor på Zanzibar.</description>
+    </item>
+    
+  </channel>
+</rss>
