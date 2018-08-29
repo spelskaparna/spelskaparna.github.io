@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 15 Aug 2018 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Aug 2018 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>/episode/50/</link>
+      <pubDate>Wed, 29 Aug 2018 14:09:44 +0000</pubDate>
+      
+      <guid>/episode/50/</guid>
+      <description>Vill du höra fler avsnitt av Extraliv? Prenumerara här:
+Vi som gör podden är Jacob Kluge, Olle Landin och Axel Johansson Palmkvist. Vi vill gärna veta vad du tycker och tänker om det du hört, så maila gärna till vår mailadress: info@extralivpodcast.se
+Ända sen de första datorspelen har utvecklingen varit tydlig - grafiken har hela tiden blivit bättre och bättre. Men i dag, när grafikkorten glöder för att klara av de senaste storspelen i 4K-upplösning, finns det också de som dras mot raka motsatsen.</description>
+    </item>
     
     <item>
       <title></title>
