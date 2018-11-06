@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 24 Oct 2018 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Nov 2018 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>/episode/55/</link>
+      <pubDate>Wed, 07 Nov 2018 14:09:44 +0000</pubDate>
+      
+      <guid>/episode/55/</guid>
+      <description>I veckans avsnitt samtalar jag med Henrik Jonsson. Vi pratar om hans långa erfarenhet inom spelbranschen, en tid som tagit honom från Bingolotto till Dallas och tillbaka till Sverige. Han har hunnit med mycket, kort sagt. Nu har han släppt programmeringen och jobbar istället med investering i spelföretag. I Spel under lupp får vi höra Henriks tankar om ett spel som lämpar sig väldigt bra för kamratförnedring och inmundigande av öl.</description>
+    </item>
     
     <item>
       <title></title>
