@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Spelskaparna</title>
-    <link>/categories/</link>
+    <link>http://spelskaparna.com/categories/</link>
     <description>Recent content in Categories on Spelskaparna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
@@ -10,15 +10,15 @@
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://spelskaparna.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Episode</title>
-      <link>/categories/episode/</link>
+      <link>http://spelskaparna.com/categories/episode/</link>
       <pubDate>Wed, 07 Nov 2018 14:09:44 +0000</pubDate>
       <author>info@spelskaparna.se (Olof Landin)</author>
-      <guid>/categories/episode/</guid>
+      <guid>http://spelskaparna.com/categories/episode/</guid>
       <description></description>
     </item>
     
