@@ -178,8 +178,15 @@ img {
 .navbar-custom.top-nav-short .navbar-brand-logo img {
   height: 40px;
 }
+.navbar-brand{
+  display:none;
+}
 
 @media only screen and (min-width: 768px) {
+
+.navbar-brand{
+  display:block;
+}
   .navbar-custom {
     padding: 20px 0;
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -199,18 +206,18 @@ img {
   -moz-transition: opacity 0.5s ease-in-out;
   transition: opacity 0.5s ease-in-out;
   left: 50%;
-  width: 75px;
+  width: 150px;
   margin-top: -25px;
 }
+
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 100%;
   border-radius: 50%;
   margin-left: -50%;
+  margin-top: -50px;
   display: inline-block;
-  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
-  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
+
 .navbar-custom .avatar-container  .avatar-img {
   width: 100%;
   display: block;
@@ -226,16 +233,17 @@ img {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
-    width: 150px;
+    width: 250px;
     margin-top: -50px;
   }
-
+/*
   .navbar-custom .avatar-container  .avatar-img-border {
     width: 100%;
     box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
     -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
     -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
   }
+*/
 
   .navbar-custom .avatar-container  .avatar-img {
     width: 100%;
@@ -553,7 +561,13 @@ footer .theme-by {
   bottom: 0;
   display: none;
 }
+.page-heading, .episode-heading{
+  margin-top: 25px;
+}
 @media only screen and (min-width: 768px) {
+.page-heading, .episode-heading{
+  margin-top: 50px;
+}
   .intro-header {
     margin-top: 130px;
   }
