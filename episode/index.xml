@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 07 Nov 2018 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Nov 2018 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/56/</link>
+      <pubDate>Wed, 21 Nov 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/56/</guid>
+      <description>Gäst i veckans avsnitt är Sara Casén. Under 2018 släppte hon och hennes företag Midnight Hub spelet Lake Ridden. Utöver det spelet pratar vi även om hennes resa in i spelbranschen som community manager och dataanalytiker.</description>
+    </item>
     
     <item>
       <title></title>
