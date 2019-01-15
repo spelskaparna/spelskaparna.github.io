@@ -9,15 +9,24 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 19 Jan 2019 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jan 2019 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/categories/episode/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
+      <link>http://spelskaparna.com/episode/60/</link>
+      <pubDate>Wed, 16 Jan 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/60/</guid>
+      <description>Denna vecka blir det Game design-special i Spelskaparna när podden gästas av Rasmus Künstlicher. Han berättar bland annat om vad hans roll på Massive Entertainment i Malmö innebär och hur man blir en bättre game designer.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://spelskaparna.com/episode/59/</link>
-      <pubDate>Sat, 19 Jan 2019 14:09:44 +0000</pubDate>
+      <pubDate>Wed, 02 Jan 2019 14:09:44 +0000</pubDate>
       <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>http://spelskaparna.com/episode/59/</guid>
       <description>I detta avsnitt av Spelskaparna får vi en liten inblick i vårt grannland Finlands spelvärld. Gäst är Juha Vainio som numera jobbar som producent på Remedy, men som tidigare bland annat arbetat på Rovio.</description>
