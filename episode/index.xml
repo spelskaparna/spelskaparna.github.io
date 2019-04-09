@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 27 Mar 2019 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2019 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/66/</link>
+      <pubDate>Tue, 09 Apr 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/66/</guid>
+      <description>Artur testade livet som programmerare men upptäckte efter ett år att det inte var hans grej. När han går in till sin chef för att säga upp sig erbjuds han istället en roll inom QA (Quality Assurance), ett jobb som visar sig passa honom som handen i handsken.</description>
+    </item>
     
     <item>
       <title></title>
