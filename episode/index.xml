@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 09 Apr 2019 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2019 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/67/</link>
+      <pubDate>Wed, 24 Apr 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/67/</guid>
+      <description>Något som varit en vit fläck på kartan för podden har länge varit just kartor. I veckans avsnitt råder vi bot på detta och pratar med Karl Vesterberg som illustrerar kartor för diverse ändamål, bland annat bräd- och rollspel.</description>
+    </item>
     
     <item>
       <title></title>
