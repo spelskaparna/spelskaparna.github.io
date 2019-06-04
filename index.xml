@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 22 May 2019 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2019 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/70/</link>
+      <pubDate>Wed, 05 Jun 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/70/</guid>
+      <description>Kuba är kanske mer känt för färgglada bilar, cigarrer och kommunism, men där finns även Josuhe och Ruben som jobbar på att göra Kubas första indie-spel - Savior. Hur är det att växa upp som spelintresserad på Kuba?</description>
+    </item>
     
     <item>
       <title></title>
