@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 05 Jun 2019 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2019 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/categories/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/71/</link>
+      <pubDate>Wed, 19 Jun 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/71/</guid>
+      <description>Även om spelmediet fortfarande inte är lika bevakat som andra kulturformer, går det idag att höra många berättelser om framgångsrika spel och deras skapare. Men nästan alltid berättas historierna långt efter det att spelen som skapats blivit succéer.</description>
+    </item>
     
     <item>
       <title></title>
