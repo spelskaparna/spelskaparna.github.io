@@ -5,14 +5,23 @@
     <link>http://spelskaparna.com/</link>
     <description>Recent content on Spelskaparna</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sv</language>
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 07 Aug 2019 14:19:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2019 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/77/</link>
+      <pubDate>Wed, 14 Aug 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/77/</guid>
+      <description>Nu finns min dokumentärfilm om spelutvecklaren Martin Magni ute, kolla här
+I veckans avsnitt får vi höra Felix af Ekenstam prata om hur han som femtonåring började att jobba som spelskapare, hur han kunnat jobba heltid med sitt egna spel ”Battle of Polytopia och mycket mer.</description>
+    </item>
     
     <item>
       <title></title>
@@ -130,16 +139,6 @@ Philip Johansson är 19 år gammal och spelutvecklare. Inspirerad av Boken The m
       <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>http://spelskaparna.com/episode/64/</guid>
       <description>SPECIAL! Veckans avsnitt av Spelskaparna blir lite annorlunda än vad ni är vana vid. Jag och min kompis Henke har nyligen varit i Japan och ägnade därför en timme åt att sammanfatta dom spelupplevelser vi haft under resans gång.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://spelskaparna.com/episode/63/</link>
-      <pubDate>Wed, 27 Feb 2019 14:09:44 +0000</pubDate>
-      <author>info@spelskaparna.se (Olof Landin)</author>
-      <guid>http://spelskaparna.com/episode/63/</guid>
-      <description>Idag blir det ett gästspel med ett avsnitt från min andra podcast Extraliv här i Spelskaparna-flödet.
-Välkommen till Extraliv – en podcast om spel, och om vår relation till spelen vi lever med.</description>
     </item>
     
     <item>
