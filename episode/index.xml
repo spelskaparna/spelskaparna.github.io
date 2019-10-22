@@ -5,13 +5,23 @@
     <link>http://spelskaparna.com/episode/</link>
     <description>Recent content in Episodes on Spelskaparna</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 09 Oct 2019 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2019 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/83/</link>
+      <pubDate>Wed, 23 Oct 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/83/</guid>
+      <description>I veckans avsnitt av Spelskaparna samtalar jag med en rutinerad herre. Niklas Malmqvist började sina dagar i spelbranschen i ett överdimensionerat hus i Tyskland på 80-talet. Han upplevde även Kings resa med Candy Crush.</description>
+    </item>
     
     <item>
       <title></title>
@@ -185,6 +195,16 @@ Philip Johansson är 19 år gammal och spelutvecklare. Inspirerad av Boken The m
       <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>http://spelskaparna.com/episode/64/</guid>
       <description>SPECIAL! Veckans avsnitt av Spelskaparna blir lite annorlunda än vad ni är vana vid. Jag och min kompis Henke har nyligen varit i Japan och ägnade därför en timme åt att sammanfatta dom spelupplevelser vi haft under resans gång.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/63/</link>
+      <pubDate>Wed, 27 Feb 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/63/</guid>
+      <description>Idag blir det ett gästspel med ett avsnitt från min andra podcast Extraliv här i Spelskaparna-flödet.
+Välkommen till Extraliv – en podcast om spel, och om vår relation till spelen vi lever med.</description>
     </item>
     
     <item>
