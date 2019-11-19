@@ -9,10 +9,20 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 06 Nov 2019 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/85/</link>
+      <pubDate>Wed, 20 Nov 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/85/</guid>
+      <description>Bitar av intervjun med Erik Skog fanns med i avsnitt #71 av Spelskaparna (Nextgen-special). Här kommer intervjun i sin helhet.
+Erik Skog är ifrån Stockholm, han är 19 år gammalt, men har redan hunnit jobba på en AAA-studio och få ett kontrakt där han har två år på sig att utveckla sitt egna indie-spel - Fight Corp.</description>
+    </item>
     
     <item>
       <title></title>
