@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Spelskaparna</title>
     <link>http://spelskaparna.com/tags/</link>
     <description>Recent content in Tags on Spelskaparna</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sv</language>
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>

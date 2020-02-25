@@ -1,18 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>episode on Spelskaparna</title>
     <link>http://spelskaparna.com/categories/episode/</link>
     <description>Recent content in episode on Spelskaparna</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sv</language>
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 12 Feb 2020 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/categories/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/92/</link>
+      <pubDate>Wed, 26 Feb 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/92/</guid>
+      <description>I veckans avsnitt av Spelskaparna samtalar jag med Richard och Christian från A small game. De har nischat in sig på mindre spel och började sitt samarbete med flashspel. Mest känt är kanske deras ”Hanger” som många säkert spelat under sina tidiga år.</description>
+    </item>
     
     <item>
       <title></title>
@@ -192,7 +200,7 @@ I veckans avsnitt får vi höra Felix af Ekenstam prata om hur han som femtonår
       <pubDate>Wed, 03 Jul 2019 14:09:44 +0000</pubDate>
       <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>http://spelskaparna.com/episode/72/</guid>
-      <description>Undrar du hur det skulle vara att bryta sig loss från de stora drakarna och gå sin egen väg genom speldjungeln? En som har gjort just det är Emil Berner. Efter plugget blev han indieutvecklare för att sedan testa lyckan på ett större bolag och för slutligen jobba för sig själv med att skapa spel.</description>
+      <description>Undrar du hur det skulle vara att bryta sig loss från de stora drakarna och gå sin egen väg genom speldjungeln? En som har gjort just det är Emil Berner.</description>
     </item>
     
     <item>
@@ -282,7 +290,7 @@ I veckans avsnitt får vi höra Felix af Ekenstam prata om hur han som femtonår
       <pubDate>Wed, 13 Feb 2019 14:09:44 +0000</pubDate>
       <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>http://spelskaparna.com/episode/62/</guid>
-      <description>I detta avsnitt kommer vi samtala om allting kring ljud i spel. Detta tillsammnas med ljuddesignerna David och Kristian som till vardags jobbar på Arrowhead. Vad består bra vapen-ljud av? Hur skapdes Silent Hills obehagliga ljudbild och vad har ljuddesigners för likheter med vampyrer?</description>
+      <description>I detta avsnitt kommer vi samtala om allting kring ljud i spel. Detta tillsammnas med ljuddesignerna David och Kristian som till vardags jobbar på Arrowhead. Vad består bra vapen-ljud av?</description>
     </item>
     
     <item>
