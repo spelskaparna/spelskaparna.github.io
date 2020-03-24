@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 11 Mar 2020 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2020 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/94/</link>
+      <pubDate>Wed, 25 Mar 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/94/</guid>
+      <description>I veckans avsnitt gör vi ett återbesök hos Philip Johansson, ni vet han som gör ett spel, från ax till limpa - helt själv! Vi pratade med honom för ungefär ett halvår sedan och jag kände att det var dags att kolla läget och hur det går helt enkelt.</description>
+    </item>
     
     <item>
       <title></title>
