@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 25 Mar 2020 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2020 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/95/</link>
+      <pubDate>Wed, 08 Apr 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/95/</guid>
+      <description>I veckans avsnitt blir det en intervju med Jaan Tallinn som var med och skapade Skype och Kazaa. Men karriären började med att göra spel. Under 90-talet släppte Jaan och hans företag Bluemoon bland annat spelet Skyroads, som var en av mina favoriter under uppväxten.</description>
+    </item>
     
     <item>
       <title></title>
