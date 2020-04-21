@@ -9,10 +9,20 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 08 Apr 2020 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2020 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/96/</link>
+      <pubDate>Wed, 22 Apr 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/96/</guid>
+      <description>Jag söker nu fler personer som vill hjälpa till med Spelskaparna! Är du intresserad, skicka ett mail till info@spelskaparna.se eller kontakta mig på @ollelandin.
+Jag ska lite skamset erkänna att jag kan allt för lite om den norska spelindustrin och personerna som jobbar i den.</description>
+    </item>
     
     <item>
       <title></title>
