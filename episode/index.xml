@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 22 Apr 2020 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2020 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/97/</link>
+      <pubDate>Wed, 06 May 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/97/</guid>
+      <description>I veckans avsnitt av Spelskaparna samtalar jag med en rutinerad herre - Carl-Henrik Skårstedt. Det är alltid lika intressant att höra de gamla rävarna i branschen prata vitt och brett om spel.</description>
+    </item>
     
     <item>
       <title></title>
