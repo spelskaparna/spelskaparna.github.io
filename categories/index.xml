@@ -9,7 +9,7 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 20 May 2020 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2020 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,7 @@
     <item>
       <title>episode</title>
       <link>http://spelskaparna.com/categories/episode/</link>
-      <pubDate>Wed, 20 May 2020 14:09:44 +0000</pubDate>
+      <pubDate>Wed, 03 Jun 2020 14:09:44 +0000</pubDate>
       <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>http://spelskaparna.com/categories/episode/</guid>
       <description></description>
