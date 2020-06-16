@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 03 Jun 2020 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2020 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/100/</link>
+      <pubDate>Thu, 18 Jun 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/100/</guid>
+      <description>I dagens avsnitt pratar jag tillsammans med Martin Lindell om publishing genom historien i allmänhet och Martins karriär i synnerhet. Martin har bland annat jobbat på PAN Vision, DICE och Raw Fury, men har även skrivit tre böcker om spelutveckling: Svensk Videospelsutveckling, Historien om SEGA: Hur en blå igelkott och hockeyspel tog Sverige med storm, 8 bitar på 80-talet: Nintendos marsch in i de svenska hemmen.</description>
+    </item>
     
     <item>
       <title></title>
