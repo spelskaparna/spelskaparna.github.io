@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 23 Jun 2014 20:23:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2020 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/102/</link>
+      <pubDate>Wed, 15 Jul 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/102/</guid>
+      <description>Dags för avsnitt två av Spel på Djupet! I detta avsnitt kommer vi att diskutera spelet Animal Capital, ett digitalt kortspel som är utvecklat av Jona Ekenberg. Tillsammans med Jona reder vi ut varför han valt att skapa spelet, hur våra genomspelningar varit och vad som lett fram till hans designbeslut.</description>
+    </item>
     
     <item>
       <title></title>
