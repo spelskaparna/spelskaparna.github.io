@@ -9,10 +9,28 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 15 Jul 2020 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2020 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/104/</link>
+      <pubDate>Wed, 12 Aug 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/104/</guid>
+      <description>Dags för avsnitt tre av Spel på Djupet! I detta avsnitt kommer vi att diskutera spelet Random Raiders, ett management-spel som är utvecklat av Solid Core. Solid Core består av Benny och Max.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/103/</link>
+      <pubDate>Wed, 29 Jul 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/103/</guid>
+      <description>I detta avsnitt pratar jag med Tabhitha Hayes som arbetat med marknadsföring inom spelbranschen i över 20 år. Hon har varit på stora studios som Sierra On-Line, Activision och EA. Numera arbetar hon på Star Stable.</description>
+    </item>
     
     <item>
       <title></title>
