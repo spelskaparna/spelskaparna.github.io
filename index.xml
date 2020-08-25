@@ -9,10 +9,20 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 12 Aug 2020 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2020 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/105/</link>
+      <pubDate>Wed, 26 Aug 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/105/</guid>
+      <description>Dags för avsnitt fyra av Spel på Djupet! I detta avsnitt kommer vi att diskutera spelet Mind Escape, ett mobilspel som är utvecklat av Robert Esbjörnsson.
+Har du tankar om Spel på Djupet, känner dig sugen på att delta i ett avsnitt eller kanske bara sugen på att snacka lite - kom in på Spelskaparnas nystartade discord.</description>
+    </item>
     
     <item>
       <title></title>
