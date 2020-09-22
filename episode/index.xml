@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 09 Sep 2020 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2020 14:09:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/107/</link>
+      <pubDate>Wed, 23 Sep 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/107/</guid>
+      <description>Dagens gäst är speldesignern Olle Håkansson från Thunderful Games. Genom åren har Olle varit tongivande i designen av spelen i SteamWorld-serien. Hur skapades SteamWorld Dig? Vad är hemligheten bakom att spelet blev så tajt?</description>
+    </item>
     
     <item>
       <title></title>
