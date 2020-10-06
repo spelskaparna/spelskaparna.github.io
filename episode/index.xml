@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 23 Sep 2020 14:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2020 06:58:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/108/</link>
+      <pubDate>Wed, 07 Oct 2020 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/108/</guid>
+      <description>I dagens avsnitt av Spel på Djupet spelar Jona Alwa&amp;rsquo;s Legacy, ett metroidvania utvecklat av Elden Pixels. Mikael Forslind som är speldesigner och CEO för Elden Pixels är med och besvarar frågor om designen av spelet.</description>
+    </item>
     
     <item>
       <title></title>
