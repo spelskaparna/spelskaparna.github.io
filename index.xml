@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 07 Oct 2020 06:58:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2020 06:58:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/109/</link>
+      <pubDate>Wed, 21 Oct 2020 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/109/</guid>
+      <description>I detta avsnitt av Spel på Djupet spelar Jona och Olle Wild Bullets, ett action-roguelite utvecklat av Tobias Örnberg / Bun Gun. Vi diskuterar bland annat hur man designar fiender och rörelsesystem, och hur man skapar spel på några få månader trots heltidsjobb och familj.</description>
+    </item>
     
     <item>
       <title></title>
