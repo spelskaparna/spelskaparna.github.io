@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 21 Oct 2020 06:58:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2020 06:58:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/110/</link>
+      <pubDate>Wed, 28 Oct 2020 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/110/</guid>
+      <description>Idag blir det ett samarbete mellan Spelskaparna och podcasten ESG-podden. Intervjuar idag gör Tomas Ahlström känd från avsnitt #57 av Spelskaparna och gäst är Stefan Lampinen. Han har kallats &amp;ldquo;one of the funding fathers of the Swedish gaming industry&amp;rdquo; och har en Lifetime Achievement Award från Nordic Games Industry - men vem är Stefan Lampinen egentligen?</description>
+    </item>
     
     <item>
       <title></title>
