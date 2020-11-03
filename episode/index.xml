@@ -9,10 +9,20 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 28 Oct 2020 06:58:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2020 06:58:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/111/</link>
+      <pubDate>Wed, 04 Nov 2020 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/111/</guid>
+      <description>Läser du detta i november 2020 borde du direkt gå in och stötta Victors kickstarter för podcasten Virtuellt.
+Dagens gäst är en legend inom speljournalistik och spelpoddar, men som de senaste åren sadlat om till att bli spelutvecklare: Victor Leijonhufvud.</description>
+    </item>
     
     <item>
       <title></title>
