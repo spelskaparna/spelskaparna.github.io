@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 18 Nov 2020 06:58:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 06:58:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/113/</link>
+      <pubDate>Wed, 02 Dec 2020 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/113/</guid>
+      <description>I dagens avsnitt pratar jag med Daniel Lindholm som berättar om hur han skapat spelmusik till japanska spel så som Pro Evolution Soccer, Resident Evil coh Street Fighter. Hur låter synthjazz, vad är en shakuhachi och varför har Daniel skapat en låt som tolkar Hur en person som aldrig varit i Japan skulle skriva en japansk melodi?</description>
+    </item>
     
     <item>
       <title></title>
