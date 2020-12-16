@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 02 Dec 2020 06:58:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Dec 2020 06:58:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/114/</link>
+      <pubDate>Wed, 16 Dec 2020 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/114/</guid>
+      <description>I dagens avsnitt av Spel på Djupet pratar vi om Rymdhulken tillsammans med dess skapare Mikael Brassman. Spelet är gjort med Pico-8 och är en rougelite där man styr en trupp av soldater på ett rymdskepp.</description>
+    </item>
     
     <item>
       <title></title>
