@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 16 Dec 2020 06:58:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Dec 2020 06:58:44 +0000</lastBuildDate>
     
 	<atom:link href="http://spelskaparna.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://spelskaparna.com/episode/115/</link>
+      <pubDate>Wed, 30 Dec 2020 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>http://spelskaparna.com/episode/115/</guid>
+      <description>Idag blir det ett samtal med Peter Zetterberg som grundade spelstudion UDS under tidigt 90-tal och som sedan dess jobbat bland annat på Codemasters och Microsoft. Idag är han Senior Director på Microsoft där han bidragit till att spel som Ori, Minecraft och Superhot hamnat på Microsofts platformar.</description>
+    </item>
     
     <item>
       <title></title>
