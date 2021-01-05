@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 30 Dec 2020 06:58:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 06:58:44 +0000</lastBuildDate>
     
 	<atom:link href="https://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/116/</link>
+      <pubDate>Wed, 06 Jan 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/116/</guid>
+      <description>Idag får vi höra om hur Olofs första spelprojekt växte fram till att bli en succé i form av simulationsspelet Airport CEO. Vi pratar mycket om lärdomar på vägen, vikten av att hitta sin nisch och vad flygplanspersonal väljer att göra på sin fritid.</description>
+    </item>
     
     <item>
       <title></title>
