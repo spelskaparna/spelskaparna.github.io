@@ -9,10 +9,15 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 06 Jan 2021 06:58:44 +0000</lastBuildDate>
-    
-	<atom:link href="https://spelskaparna.com/categories/episode/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 20 Jan 2021 06:58:44 +0000</lastBuildDate><atom:link href="https://spelskaparna.com/categories/episode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/117/</link>
+      <pubDate>Wed, 20 Jan 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/117/</guid>
+      <description>Tillsammans med Christian, Therese och Adam diskuterar Jona de spel som har skapats under Kodsnacks Spelsylt 5: Norrland. Vi pratar om spel som Snow Blazer, Alice i Överkalix och Oh Deer!</description>
+    </item>
     
     <item>
       <title></title>
