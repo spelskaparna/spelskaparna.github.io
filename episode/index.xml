@@ -9,7 +9,20 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 05 May 2021 06:58:44 +0000</lastBuildDate><atom:link href="https://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 May 2021 06:58:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/130/</link>
+      <pubDate>Wed, 19 May 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/130/</guid>
+      <description>Blockscape är ett innovativt blockbyggarspel i Minecraft-stil från Linköping som sålt över 50.000 kopior. Mannen bakom spelet är Jens Blomquist som berättar om sin resa som spelutvecklare, hur spelet växt fram steg för steg samt alla framgångar och motgångar som Jens gått igenom på vägen.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/129/</link>
