@@ -9,10 +9,15 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 23 Jun 2014 20:23:30 +0000</lastBuildDate>
-    
-	<atom:link href="https://spelskaparna.com/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 02 Jun 2021 06:58:44 +0000</lastBuildDate><atom:link href="https://spelskaparna.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/131/</link>
+      <pubDate>Wed, 02 Jun 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/131/</guid>
+      <description>Olle gör ett kort instick som programledare igen, sedan Tomas i många avsnitt med bravur hållit i rodret. I detta avsnitt dyker vi ned i en spännande värld av ljudspel. Philip Bennefall är medgrundare av Elias Software som gör programvara för att skapa dynamisk musik och ljud för spel.</description>
+    </item>
     
     <item>
       <title></title>
