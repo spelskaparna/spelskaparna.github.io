@@ -9,7 +9,20 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 02 Jun 2021 06:58:44 +0000</lastBuildDate><atom:link href="https://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jun 2021 06:58:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/132/</link>
+      <pubDate>Wed, 16 Jun 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/132/</guid>
+      <description>I dagens avsnitt pratar jag med Hugo Lundgren som vann den första upplagan av Spelskaparnas Game Jam, detta med sitt bidrag: Fuskbygget. Vi pratar om hans upplevelse av jammet och om hur processen var.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/131/</link>
