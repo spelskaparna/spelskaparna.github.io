@@ -9,7 +9,29 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 14 Jul 2021 06:58:44 +0000</lastBuildDate><atom:link href="https://spelskaparna.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jun 2014 20:23:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://spelskaparna.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/136/</link>
+      <pubDate>Wed, 11 Aug 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/136/</guid>
+      <description>I dagens avsnitt gör Axel Johansson Palmkvist en efterlängtad comeback i Spelskaparna-sammanhang. Vi får höra när han samtalar med författaren Sara Bergmark Elfgren (Cirkeln, Norra Latin) om hur det var att skriva manus till VR-spelet Ghost Giant.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/135/</link>
+      <pubDate>Wed, 28 Jul 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/135/</guid>
+      <description>Denna gången är det Olle som styr spakarna i Spel på Djupet. Gäster är Sebastian (Technical Artist), Jens (Programmerare) och Gabriel (Leveldesigner) som tillsammans med femton andra elever från The Game Assembly i Malmö gjort spelet Gnome Gname.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/134/</link>
