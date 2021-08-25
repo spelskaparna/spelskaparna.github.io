@@ -9,10 +9,19 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 11 Aug 2021 06:58:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Aug 2021 06:58:44 +0000</lastBuildDate>
     
 	<atom:link href="https://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/137/</link>
+      <pubDate>Wed, 25 Aug 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/137/</guid>
+      <description>I dagens avsnitt gästar Jimmy Wilhelmsson som förutom att arbeta i spelbranschen som Narrative Lore Master på Sharkmob även driver bokförlaget Fandrake. De allra flesta som jag intervjuat i Spelskaparna som är födda på 1970-talet började sin bana till att bli spelutvecklare på samma vis: med en C64 eller Amiga.</description>
+    </item>
     
     <item>
       <title></title>
