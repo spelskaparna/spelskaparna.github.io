@@ -9,10 +9,15 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 25 Aug 2021 06:58:44 +0000</lastBuildDate>
-    
-	<atom:link href="https://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 08 Sep 2021 06:58:44 +0000</lastBuildDate><atom:link href="https://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/138/</link>
+      <pubDate>Wed, 08 Sep 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/138/</guid>
+      <description>I dagens avsnitt bjuder Spelskaparna på en Let’s play helt och hållet i ljud! Det är Isak Wahlberg och Robin Larsson Asp från podcasten Kontrollbehov som testspelar An Error Occured. I ett dystopiskt framtida Sverige har en intelligent AI tagit makten över mänskligheten.</description>
+    </item>
     
     <item>
       <title></title>
@@ -38,7 +43,7 @@
       <pubDate>Wed, 28 Jul 2021 06:58:44 +0000</pubDate>
       <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/135/</guid>
-      <description>Denna gången är det Olle som styr spakarna i Spel på Djupet. Gäster är Sebastian (Technical Artist), Jens (Programmerare) och Gabriel (Leveldesigner) som tillsammans med femton andra elever från The Game Assembly i Malmö gjort spelet Gnome Gname.</description>
+      <description>Denna gången är det Olle som styr spakarna i Spel på Djupet. Gäster är Sebastian (Technical Artist), Jesper (Programmerare) och Gabriel (Leveldesigner) som tillsammans med femton andra elever från The Game Assembly i Malmö gjort spelet Gnome Gname.</description>
     </item>
     
     <item>
