@@ -9,7 +9,20 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 20 Oct 2021 11:11:59 +0000</lastBuildDate><atom:link href="https://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Nov 2021 07:59:21 +0000</lastBuildDate>
+    
+	<atom:link href="https://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/142/</link>
+      <pubDate>Wed, 03 Nov 2021 07:59:21 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/142/</guid>
+      <description>I dagens avsnitt är Ola Ringdahl (speakerröst) gästprogramledare och diskuterar spel och röstskådespeleri tillsammans med gästerna Christian Hedlund (röstskådis) och Ludvig Kullberg (Voice Over director på DICE). Det blir en djupdykning ner i hur det går det till för att skapa de magiaska rösterna vi hör i spelen!</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/141/</link>
