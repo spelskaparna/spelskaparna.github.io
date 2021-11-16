@@ -9,10 +9,15 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 03 Nov 2021 07:59:21 +0000</lastBuildDate>
-    
-	<atom:link href="https://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 17 Nov 2021 15:50:34 +0000</lastBuildDate><atom:link href="https://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/143/</link>
+      <pubDate>Wed, 17 Nov 2021 15:50:34 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/143/</guid>
+      <description>Finnish sound designer Joonas Turner is guesting this episode and we talk about everything concerning sound design and go in to detail on how Jonas made the sounds for games like Nuclear Throne, Atomicrops, Bleak Sword, Badland and ScourgeBringer.</description>
+    </item>
     
     <item>
       <title></title>
