@@ -9,15 +9,14 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 14 Feb 2024 10:44:47 +0000</lastBuildDate><atom:link href="https://spelskaparna.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Feb 2024 10:44:47 +0000</lastBuildDate>
+    <atom:link href="https://spelskaparna.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>episode</title>
       <link>https://spelskaparna.com/categories/episode/</link>
-      <pubDate>Wed, 14 Feb 2024 10:44:47 +0000</pubDate>
-      <author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 28 Feb 2024 10:44:47 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/categories/episode/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
