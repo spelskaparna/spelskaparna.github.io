@@ -8,7 +8,6 @@
     <language>sv</language>
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
-    <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <atom:link href="https://spelskaparna.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright><atom:link href="https://spelskaparna.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

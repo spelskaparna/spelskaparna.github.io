@@ -9,1120 +9,1447 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 13 Mar 2024 10:44:47 +0000</lastBuildDate>
-    <atom:link href="https://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Mar 2024 10:44:47 +0000</lastBuildDate><atom:link href="https://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/159/</link>
-      <pubDate>Wed, 13 Mar 2024 10:44:47 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 13 Mar 2024 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/159/</guid>
       <description>Tadej Gregorcic är ursprungligen från Slovenien, men bor numera i Malmö där han tidigt kom i kontakt med den svenska demo-scenen. Han har tidigare drivit en egen spelstudio som utfört uppdrag åt andra och har under tio år arbetat med utvecklingen av peka-och-klicka-äventyret Elroy and the Aliens.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/158/</link>
-      <pubDate>Wed, 28 Feb 2024 10:44:47 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 28 Feb 2024 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/158/</guid>
       <description>För bara några år sedan jobbade Max som en vanlig mjukvaruutvecklare, sedan tog han steget och började jobba på att utveckla sitt eget spel. Debutspelet Fabledom fick över 50 tusen nedladdningar första veckan det släpptes i early access, vilket har säkrat utvecklingen även för nästa spel.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/157/</link>
-      <pubDate>Wed, 14 Feb 2024 10:44:47 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 14 Feb 2024 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/157/</guid>
       <description>Martin Wikner arbetar som Narrative Lead på Sharkmob där han jobbar med manus och lore för deras spel. I dagens avsnitt dyker vi in i arbetet med Vampire the Masquerade: Bloodhunt – från utmaningarna med att skriva för ett etablerat IP till konsten att berätta historier med hjälp av en värld snarare än ord.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/156/</link>
-      <pubDate>Wed, 31 Jan 2024 10:44:47 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 31 Jan 2024 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/156/</guid>
       <description>Glädjande nyheter! Vi är tillbaka med ett sprillans nytt avsnitt, och framöver kan ni förvänta er nya episoder varannan vecka! I denna nypremiär sätter vi strålkastarljuset på ScummVM, den fantastiska open source-programvaran som ger nytt liv till tidlösa spelklassiker.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/155/</link>
-      <pubDate>Tue, 22 Aug 2023 10:44:47 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Tue, 22 Aug 2023 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/155/</guid>
-      <description>Är DU intresserad av att bidra med innehåll till Spelskaparna - hör av dig!&#xA;Det var ett tag sedan sist! Mycket har hänt. På det personliga planet har jag lämnat Stockholm för Skåne, flyttat till hus, fått en släng av borrelia, fått mitt andra barn och släppt en beta-version av mobilspelet Jordglobe - där man på ett kul sätt lär sig om världens geografi.</description>
+      <description>Är DU intresserad av att bidra med innehåll till Spelskaparna - hör av dig!
+Det var ett tag sedan sist! Mycket har hänt. På det personliga planet har jag lämnat Stockholm för Skåne, flyttat till hus, fått en släng av borrelia, fått mitt andra barn och släppt en beta-version av mobilspelet Jordglobe - där man på ett kul sätt lär sig om världens geografi.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/154/</link>
-      <pubDate>Wed, 22 Jun 2022 10:44:47 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 22 Jun 2022 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/154/</guid>
       <description>I sista avsnittet innan Spelskaparnas sommaruppehåll är Mattias Granat gäst. Vi pratar om hur Itatake gått från att göra spel vid sidan av, utan någon programmeringskompetens, till att ta in riskkapital och kunna satsa fullt ut.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/153/</link>
-      <pubDate>Wed, 08 Jun 2022 13:11:30 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 08 Jun 2022 13:11:30 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/153/</guid>
       <description>Dagens gäst kommer ursprungligen från Estland men bor numera i Spelkollektivet utanför Växjö. I februari 2020 släppte hon sitt första spel Death and Taxes som blev en hit och har hittills sålts i över tvåhundratusen exemplar.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/152/</link>
-      <pubDate>Wed, 25 May 2022 11:41:23 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 25 May 2022 11:41:23 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/152/</guid>
       <description>I dagens avsnitt möter du författaren Jacob Lindfors som skrivit spänningsromanerna Vinterpacket och Sidenvägen. Du hör honom och gästprogramledaren Ola Ringdahl diskutera hur spelmekaniker påverkar skrivandet, skrivtekniker för att skapa en stämning eller plats direkt, och hur man medvetet kan påverka spelarens och läsarens kemiska reaktioner i hjärnan.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/151/</link>
-      <pubDate>Wed, 11 May 2022 12:44:15 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 11 May 2022 12:44:15 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/151/</guid>
       <description>På pojkrummet började Oskar sin resa som spelutvecklare där han gjorde allting från programmering och grafik till game design på sin Atari. Sedan dess har han hunnit med många olika roller: programmerare på UDS, projektledare på Avalanche, studiochef för Rovio Stockholm och nu VD på VR-studion Fast Travel Games.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/150/</link>
-      <pubDate>Wed, 27 Apr 2022 08:35:36 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 27 Apr 2022 08:35:36 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/150/</guid>
       <description>Anton är kanske den person i världen som träffat på flest svenska spelutvecklare. I sin roll på Svenska Dataspelsbranschen ansvarar Anton för kontakten med spelutbildningar och nystartade företag, vilket innebär att han sett flera spel gå från okända småprojekt till att bli stora succéer, exempel på detta är Raft och TABS.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/149/</link>
-      <pubDate>Wed, 13 Apr 2022 12:15:29 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 13 Apr 2022 12:15:29 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/149/</guid>
       <description>I dagens avsnitt pratar jag med en av grundarna bakom spelet GeoGuessr. Redan 2013 släpptes spelet där du blir droppad någonstans i världen i Google Street View och ska plocka poäng genom att gissa var du är.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/148/</link>
-      <pubDate>Wed, 30 Mar 2022 09:55:24 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 30 Mar 2022 09:55:24 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/148/</guid>
       <description>I dagens avsnitt gästar Johan Döhl som arbetade i 20 år på DICE med projektledning på olika nivåer. Han var även med tidigt i legendariska demo-gruppen The Black Lotus. Det blir prat om Frostbite, om hur Johan efter 20 år med gigantiska projekt på DICE börjat med ett nytt projekt som soloutvecklare, ett Amiga-demon som ställde upp i PC-tävlingen, att medverka i Jimmy Fallons talk show och mycket annat!</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/147/</link>
-      <pubDate>Wed, 16 Mar 2022 08:38:43 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 16 Mar 2022 08:38:43 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/147/</guid>
       <description>I dagens avsnitt är Adam Gerthel gäst. Vi pratar om någonting så ovanligt som ett textbaserat rollspel för mobil. Adam har tillsammans med sin kollega Christopher skapat spelet Eldrum: Untold som tagit det bästa från tabletop rollspel och paketerat det för mobil.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/146/</link>
-      <pubDate>Wed, 02 Mar 2022 08:38:43 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 02 Mar 2022 08:38:43 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/146/</guid>
       <description>Detta skulle egentligen bli ett avsnitt av Spel på Djupet, men jag (Jona) och Malin pratade så länge om hur man gör spel ensam att vi knappt hann prata om Malins spel - Horse Trek.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/145/</link>
-      <pubDate>Wed, 16 Feb 2022 08:38:43 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 16 Feb 2022 08:38:43 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/145/</guid>
       <description>Adnan Chaumette started to learn how to become a 3D-artist back in his home country Mauritania by tinkering with the computers at the local internet cafe. Despite the lack of resources and recurrent power outages he&amp;rsquo;s journey led him all the way to becoming the CEO for the Stockholm based Computer Graphics startup Polygonflow.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/144/</link>
-      <pubDate>Wed, 01 Dec 2021 15:50:34 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 01 Dec 2021 15:50:34 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/144/</guid>
       <description>Vi bjuder in Kevin Andersson på nytt för att prata om hans samarbete med Aurora Punks och hans nya spel Hoplegs! Jona ställer frågor om fördelarna med att jobba i ett kollektiv, hur man hanterar early access och hur man designar ett roligt ragespel.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/143/</link>
-      <pubDate>Wed, 17 Nov 2021 15:50:34 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 17 Nov 2021 15:50:34 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/143/</guid>
       <description>Finnish sound designer Joonas Turner is guesting this episode and we talk about everything concerning sound design and go in to detail on how Jonas made the sounds for games like Nuclear Throne, Atomicrops, Bleak Sword, Badland and ScourgeBringer.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/142/</link>
-      <pubDate>Wed, 03 Nov 2021 07:59:21 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 03 Nov 2021 07:59:21 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/142/</guid>
       <description>I dagens avsnitt är Ola Ringdahl (speakerröst) gästprogramledare och diskuterar spel och röstskådespeleri tillsammans med gästerna Christian Hedlund (röstskådis) och Ludvig Kullberg (Voice Over director på DICE). Det blir en djupdykning ner i hur det går det till för att skapa de magiaska rösterna vi hör i spelen!</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/141/</link>
-      <pubDate>Wed, 20 Oct 2021 11:11:59 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 20 Oct 2021 11:11:59 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/141/</guid>
       <description>I dagen avsnitt gästar en av grundarna bakom Carry Castle - Per Fornander. I höst har Per och hans team släppt spelet Source of Madness som Early Access. Spelet är ett mörkt roguelite vars grafiska uttryck skulle kunna liknas vid att musikgenren death metal har transformerats från musik till ett spel.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/140/</link>
-      <pubDate>Wed, 06 Oct 2021 22:24:50 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 06 Oct 2021 22:24:50 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/140/</guid>
       <description>I dagens avsnitt gästar Jakob Wahlberg som tidigare arbetat med SteamWorld-serien och nu senast på ett nytt IP skapat av utvecklarna bakom Ori and the Blind Forest. Nu jobbar Jakob på sitt egna spel: GoMechaBall.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/139/</link>
-      <pubDate>Wed, 22 Sep 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 22 Sep 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/139/</guid>
       <description>I dagens avsnitt hör vi åter Axel Johansson Palmkvist i ett Spelskaparna-sammanhang. Vi får höra när Axel besöker Thomas Grip, speldesignern bakom SOMA och Amnesia. Thomas tar oss igenom starten av SOMA och berättar tankarna bakom de designbeslut som valts.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/138/</link>
-      <pubDate>Wed, 08 Sep 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 08 Sep 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/138/</guid>
       <description>I dagens avsnitt bjuder Spelskaparna på en Let’s play helt och hållet i ljud! Det är Isak Wahlberg och Robin Larsson Asp från podcasten Kontrollbehov som testspelar An Error Occured. I ett dystopiskt framtida Sverige har en intelligent AI tagit makten över mänskligheten.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/137/</link>
-      <pubDate>Wed, 25 Aug 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 25 Aug 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/137/</guid>
       <description>I dagens avsnitt gästar Jimmy Wilhelmsson som förutom att arbeta i spelbranschen som Narrative Lore Master på Sharkmob även driver bokförlaget Fandrake. De allra flesta som jag intervjuat i Spelskaparna som är födda på 1970-talet började sin bana till att bli spelutvecklare på samma vis: med en C64 eller Amiga.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/136/</link>
-      <pubDate>Wed, 11 Aug 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 11 Aug 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/136/</guid>
       <description>I dagens avsnitt gör Axel Johansson Palmkvist en efterlängtad comeback i Spelskaparna-sammanhang. Vi får höra när han samtalar med författaren Sara Bergmark Elfgren (Cirkeln, Norra Latin) om hur det var att skriva manus till VR-spelet Ghost Giant.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/135/</link>
-      <pubDate>Wed, 28 Jul 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 28 Jul 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/135/</guid>
       <description>Denna gången är det Olle som styr spakarna i Spel på Djupet. Gäster är Sebastian (Technical Artist), Jesper (Programmerare) och Gabriel (Leveldesigner) som tillsammans med femton andra elever från The Game Assembly i Malmö gjort spelet Gnome Gname.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/134/</link>
-      <pubDate>Wed, 14 Jul 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 14 Jul 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/134/</guid>
       <description>Sven Thole är VD och designer på studion Pugstorm vars spel Core Keeper annonserades på E3. Core Keeper är teamets andra spel som publiceras av förläggaren Sold Out. Spelet beskrivs som ett Stardew Valley, fast i grottor där man utforskar en procedurellt genererad underjordisk värld.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/133/</link>
-      <pubDate>Thu, 01 Jul 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Thu, 01 Jul 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/133/</guid>
       <description>Dagens agäst är Patrik Jarlestam som är kompositören bakom musiken till spel som Lake Ridden och årets dundesuccé Valheim. Vi grottar ner oss i processen bakom att skapa bra spelmusik och hur olika komponeter av en komposition kan bidra till ett spels stämning.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/132/</link>
-      <pubDate>Wed, 16 Jun 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 16 Jun 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/132/</guid>
       <description>I dagens avsnitt pratar jag med Hugo Lundgren som vann den första upplagan av Spelskaparnas Game Jam, detta med sitt bidrag: Fuskbygget. Vi pratar om hans upplevelse av jammet och om hur processen var.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/131/</link>
-      <pubDate>Wed, 02 Jun 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 02 Jun 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/131/</guid>
       <description>Olle gör ett kort instick som programledare igen, sedan Tomas i många avsnitt med bravur hållit i rodret. I detta avsnitt dyker vi ned i en spännande värld av ljudspel. Philip Bennefall är medgrundare av Elias Software som gör programvara för att skapa dynamisk musik och ljud för spel.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/130/</link>
-      <pubDate>Wed, 19 May 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 19 May 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/130/</guid>
       <description>Blockscape är ett innovativt blockbyggarspel i Minecraft-stil från Linköping som sålt över 50.000 kopior. Mannen bakom spelet är Jens Blomquist som berättar om sin resa som spelutvecklare, hur spelet växt fram steg för steg samt alla framgångar och motgångar som Jens gått igenom på vägen.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/129/</link>
-      <pubDate>Wed, 05 May 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 05 May 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/129/</guid>
       <description>Alla älskar att bygga spel, men många tycker ekonomi och företagande verkar krångligt. I samarbete med East Sweden Game reder vi ut begreppen. Tomas Ahlström har intervjuat Kajsa Grafström som är frilansande ekonomichef i spelbranschen.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/128/</link>
-      <pubDate>Wed, 21 Apr 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 21 Apr 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/128/</guid>
       <description>Valla Game Education är en tvåårig spelutbildning som drivs i samarbete mellan Valla Folkhögskola och East Sweden Game i Linköping. I detta avsnitt pratar vi med två av förra årets kursdeltagare; Gabriella och Lucas.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/127/</link>
-      <pubDate>Wed, 07 Apr 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 07 Apr 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/127/</guid>
       <description>I dagens avsnitt av Spel på Djupet tittar vi på kortspelet Kreaturekind som är utvecklat av Anna Jenelius. Till skillnad från de flesta andra spel ska man i Kreaturekind hjälpa monster, snarare än att skada dem.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/126/</link>
-      <pubDate>Wed, 31 Mar 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 31 Mar 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/126/</guid>
       <description>950 miljoner människor konsumerar gaminginnehåll via Twitch och YouTube och detta innehåll skapas av över 11 miljoner influencers. Allt detta har bolaget Lurkit koll på och nyligen lanserade teamet ett kampanjverktyg som gör det lätt för studios att komma i kontakt med relevanta influencers.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/125/</link>
-      <pubDate>Fri, 19 Mar 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Fri, 19 Mar 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/125/</guid>
-      <description>20e mars är alla spel från game jam:et uppladdade. Kom och testa dem!&#xA;Olle Håkansson från Image &amp;amp; Form är åter igen med i panelen när vi under en mastodontomgång av Spel på Djupet pratar om Outer Wilds.</description>
+      <description>20e mars är alla spel från game jam:et uppladdade. Kom och testa dem!
+Olle Håkansson från Image &amp;amp; Form är åter igen med i panelen när vi under en mastodontomgång av Spel på Djupet pratar om Outer Wilds.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/124/</link>
-      <pubDate>Wed, 17 Mar 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 17 Mar 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/124/</guid>
       <description>I dagens avsnitt gör jag (Olle) comback i Spelskaparna igen och det med en intervju av speltidningslegendaren Tobias Bjarneby. Förutom att prata om hans tid med tidningarna Nintendo-Magasinet, Super Play och Level pratar vi även om spelet 198X som Tobias släppte 2019.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/123/</link>
-      <pubDate>Fri, 12 Mar 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Fri, 12 Mar 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/123/</guid>
-      <description>Idag drar Spelskaparnas första Game Jam igång! Kom och gör spel med oss!&#xA;Olle Håkansson från Image &amp;amp; Form är åter igen med i panelen när vi under en mastodontomgång av Spel på Djupet pratar om Outer Wilds.</description>
+      <description>Idag drar Spelskaparnas första Game Jam igång! Kom och gör spel med oss!
+Olle Håkansson från Image &amp;amp; Form är åter igen med i panelen när vi under en mastodontomgång av Spel på Djupet pratar om Outer Wilds.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/122/</link>
-      <pubDate>Fri, 05 Mar 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Fri, 05 Mar 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/122/</guid>
-      <description>Idag drar Spelskaparnas första Game Jam igång! Kom och gör spel med oss!&#xA;Olle Håkansson från Image &amp;amp; Form är åter igen med i panelen när vi under en mastodontomgång av Spel på Djupet pratar om Outer Wilds.</description>
+      <description>Idag drar Spelskaparnas första Game Jam igång! Kom och gör spel med oss!
+Olle Håkansson från Image &amp;amp; Form är åter igen med i panelen när vi under en mastodontomgång av Spel på Djupet pratar om Outer Wilds.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/121/</link>
-      <pubDate>Wed, 03 Mar 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 03 Mar 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/121/</guid>
-      <description>Avsnittet presenteras i samarbete med East Sweden Game, en mötesplats för alla som utvecklar spel i Östergötland.&#xA;Go Fight Fantastic! är ett snyggt action-RPG med fokus på lagarbete och samarbete. Spelet har handritade miljöer och en helt unik grafisk stil baserat på en 2D/3D-hybridteknik.</description>
+      <description>Avsnittet presenteras i samarbete med East Sweden Game, en mötesplats för alla som utvecklar spel i Östergötland.
+Go Fight Fantastic! är ett snyggt action-RPG med fokus på lagarbete och samarbete. Spelet har handritade miljöer och en helt unik grafisk stil baserat på en 2D/3D-hybridteknik.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/120/</link>
-      <pubDate>Fri, 26 Feb 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Fri, 26 Feb 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/120/</guid>
       <description>Olle Håkansson från Image &amp;amp; Form är åter igen med i panelen när vi under en mastodontomgång av Spel på Djupet pratar om Outer Wilds. Till skillnad från tidigare avsnitt har vi en längre och lösare diskussion om speldesign, med Outer Wilds som utgångspunkt.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/119/</link>
-      <pubDate>Wed, 17 Feb 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 17 Feb 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/119/</guid>
-      <description>Avsnittet presenteras i samarbete med East Sweden Game, en mötesplats för alla som utvecklar spel i Östergötland.&#xA;Max Lachmann är VD och en av grundare av Pole Position Production, ett ljud- och musikproduktionsföretag i Stockholm som jobbat på tunga titlar som Battlefield V, Flight Simulator, The Crew 2, Just Cause 4, Asphalt 9, Far Cry 5, Cities: Skylines samt Hollywood-rullar som Christopher Nolan’s episka Dunkirk.</description>
+      <description>Avsnittet presenteras i samarbete med East Sweden Game, en mötesplats för alla som utvecklar spel i Östergötland.
+Max Lachmann är VD och en av grundare av Pole Position Production, ett ljud- och musikproduktionsföretag i Stockholm som jobbat på tunga titlar som Battlefield V, Flight Simulator, The Crew 2, Just Cause 4, Asphalt 9, Far Cry 5, Cities: Skylines samt Hollywood-rullar som Christopher Nolan’s episka Dunkirk.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/118/</link>
-      <pubDate>Wed, 03 Feb 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 03 Feb 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/118/</guid>
       <description>Dagens gäst är programmeraren och speldesignern Kevin Andersson som just nu jobbar på spelet Overlook Trail med Henrik Johansson. Han gör även spel som soloutvecklare och är aktuell med spelet Hoplegs.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/117/</link>
-      <pubDate>Wed, 20 Jan 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 20 Jan 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/117/</guid>
       <description>Tillsammans med Christian, Therese och Adam diskuterar Jona de spel som har skapats under Kodsnacks Spelsylt 5: Norrland. Vi pratar om spel som Snow Blazer, Alice i Överkalix och Oh Deer!</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/116/</link>
-      <pubDate>Wed, 06 Jan 2021 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 06 Jan 2021 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/116/</guid>
       <description>Idag får vi höra om hur Olofs första spelprojekt växte fram till att bli en succé i form av simulationsspelet Airport CEO. Vi pratar mycket om lärdomar på vägen, vikten av att hitta sin nisch och vad flygplanspersonal väljer att göra på sin fritid.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/115/</link>
-      <pubDate>Wed, 30 Dec 2020 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 30 Dec 2020 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/115/</guid>
       <description>Idag blir det ett samtal med Peter Zetterberg som grundade spelstudion UDS under tidigt 90-tal och som sedan dess jobbat bland annat på Codemasters och Microsoft. Idag är han Senior Director på Microsoft där han bidragit till att spel som Ori, Minecraft och Superhot hamnat på Microsofts platformar.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/114/</link>
-      <pubDate>Wed, 16 Dec 2020 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 16 Dec 2020 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/114/</guid>
       <description>I dagens avsnitt av Spel på Djupet pratar vi om Rymdhulken tillsammans med dess skapare Mikael Brassman. Spelet är gjort med Pico-8 och är en rougelite där man styr en trupp av soldater på ett rymdskepp.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/113/</link>
-      <pubDate>Wed, 02 Dec 2020 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 02 Dec 2020 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/113/</guid>
       <description>I dagens avsnitt pratar jag med Daniel Lindholm som berättar om hur han skapat spelmusik till japanska spel så som Pro Evolution Soccer, Resident Evil coh Street Fighter. Hur låter synthjazz, vad är en shakuhachi och varför har Daniel skapat en låt som tolkar Hur en person som aldrig varit i Japan skulle skriva en japansk melodi?</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/112/</link>
-      <pubDate>Wed, 18 Nov 2020 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 18 Nov 2020 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/112/</guid>
       <description>I dagens avsnitt av Spel på Djupet spelar Jona Skullbangers, ett hetsigt partyspel under utveckling av Winteractive. Spelets programmerare och grafiker Max Friberg berättar om hur Winteractive uppkom och hur de arbetat med praktikanter, speltestning och trix för att få spelet att kännas både fartfyllt och rättvist.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/111/</link>
-      <pubDate>Wed, 04 Nov 2020 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 04 Nov 2020 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/111/</guid>
-      <description>Läser du detta i november 2020 borde du direkt gå in och stötta Victors kickstarter för podcasten Virtuellt.&#xA;Dagens gäst är en legend inom speljournalistik och spelpoddar, men som de senaste åren sadlat om till att bli spelutvecklare: Victor Leijonhufvud.</description>
+      <description>Läser du detta i november 2020 borde du direkt gå in och stötta Victors kickstarter för podcasten Virtuellt.
+Dagens gäst är en legend inom speljournalistik och spelpoddar, men som de senaste åren sadlat om till att bli spelutvecklare: Victor Leijonhufvud.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/110/</link>
-      <pubDate>Wed, 28 Oct 2020 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 28 Oct 2020 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/110/</guid>
       <description>Idag blir det ett samarbete mellan Spelskaparna och podcasten ESG-podden. Intervjuar idag gör Tomas Ahlström känd från avsnitt #57 av Spelskaparna och gäst är Stefan Lampinen. Han har kallats &amp;ldquo;one of the funding fathers of the Swedish gaming industry&amp;rdquo; och har en Lifetime Achievement Award från Nordic Games Industry - men vem är Stefan Lampinen egentligen?</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/109/</link>
-      <pubDate>Wed, 21 Oct 2020 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 21 Oct 2020 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/109/</guid>
       <description>I detta avsnitt av Spel på Djupet spelar Jona och Olle Wild Bullets, ett action-roguelite utvecklat av Tobias Örnberg / Bun Gun. Vi diskuterar bland annat hur man designar fiender och rörelsesystem, och hur man skapar spel på några få månader trots heltidsjobb och familj.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/108/</link>
-      <pubDate>Wed, 07 Oct 2020 06:58:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 07 Oct 2020 06:58:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/108/</guid>
       <description>I dagens avsnitt av Spel på Djupet spelar Jona Alwa&amp;rsquo;s Legacy, ett metroidvania utvecklat av Elden Pixels. Mikael Forslind som är speldesigner och CEO för Elden Pixels är med och besvarar frågor om designen av spelet.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/107/</link>
-      <pubDate>Wed, 23 Sep 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 23 Sep 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/107/</guid>
       <description>Dagens gäst är speldesignern Olle Håkansson från Thunderful Games. Genom åren har Olle varit tongivande i designen av spelen i SteamWorld-serien. Hur skapades SteamWorld Dig? Vad är hemligheten bakom att spelet blev så tajt?</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/106/</link>
-      <pubDate>Wed, 09 Sep 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 09 Sep 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/106/</guid>
       <description>I dagens avsnitt av Spel på Djupet spelar vi Employee of the Moth, ett mobilspel som är utvecklat av @videovaald. Spelet kan beskrivas som något så oväntat som en som en blandning av Kjell Höglunds klassiska låt Man vänjer sig och spelet WarioWare.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/105/</link>
-      <pubDate>Wed, 26 Aug 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 26 Aug 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/105/</guid>
-      <description>Dags för avsnitt fyra av Spel på Djupet! I detta avsnitt kommer vi att diskutera spelet Mind Escape, ett mobilspel som är utvecklat av Robert Esbjörnsson.&#xA;Har du tankar om Spel på Djupet, känner dig sugen på att delta i ett avsnitt eller kanske bara sugen på att snacka lite - kom in på Spelskaparnas nystartade discord.</description>
+      <description>Dags för avsnitt fyra av Spel på Djupet! I detta avsnitt kommer vi att diskutera spelet Mind Escape, ett mobilspel som är utvecklat av Robert Esbjörnsson.
+Har du tankar om Spel på Djupet, känner dig sugen på att delta i ett avsnitt eller kanske bara sugen på att snacka lite - kom in på Spelskaparnas nystartade discord.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/104/</link>
-      <pubDate>Wed, 12 Aug 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 12 Aug 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/104/</guid>
       <description>Dags för avsnitt tre av Spel på Djupet! I detta avsnitt kommer vi att diskutera spelet Random Raiders, ett management-spel som är utvecklat av Solid Core. Solid Core består av Benny och Max.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/103/</link>
-      <pubDate>Wed, 29 Jul 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 29 Jul 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/103/</guid>
       <description>I detta avsnitt pratar jag med Tabhitha Hayes som arbetat med marknadsföring inom spelbranschen i över 20 år. Hon har varit på stora studios som Sierra On-Line, Activision och EA. Numera arbetar hon på Star Stable.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/102/</link>
-      <pubDate>Wed, 15 Jul 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 15 Jul 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/102/</guid>
       <description>Dags för avsnitt två av Spel på Djupet! I detta avsnitt kommer vi att diskutera spelet Animal Capital, ett digitalt kortspel som är utvecklat av Jona Ekenberg. Tillsammans med Jona reder vi ut varför han valt att skapa spelet, hur våra genomspelningar varit och vad som lett fram till hans designbeslut.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/101/</link>
-      <pubDate>Wed, 01 Jul 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 01 Jul 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/101/</guid>
       <description>Premiär för det nya formatet Spel på Djupet! I detta avsnitt kommer vi att diskutera spelet Cards with Personalities, ett digitalt kortspel som är utvecklat av Sebastian Lind. Tillsammans med Sebastian reder vi ut varför han valt att skapa spelet, hur våra genomspelningar varit och vad som lett fram till hans designbeslut.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/100/</link>
-      <pubDate>Thu, 18 Jun 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Thu, 18 Jun 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/100/</guid>
       <description>I dagens avsnitt pratar jag tillsammans med Martin Lindell om publishing genom historien i allmänhet och Martins karriär i synnerhet. Martin har bland annat jobbat på PAN Vision, DICE och Raw Fury, men har även skrivit tre böcker om spelutveckling: Svensk Videospelsutveckling, Historien om SEGA: Hur en blå igelkott och hockeyspel tog Sverige med storm, 8 bitar på 80-talet: Nintendos marsch in i de svenska hemmen.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/99/</link>
-      <pubDate>Wed, 03 Jun 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 03 Jun 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/99/</guid>
       <description>Dagens avsnitt är för första gången inspelat i Hugo Lundgrens studio och där samtalar jag med @Zworp som nyligen släppt spelet Moving Out. Det blir prat om spelsläppet, men ävens om Jans tid på King, om varför han gillar att göra spel där man styr udda fordon och mycket mer!</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/98/</link>
-      <pubDate>Wed, 20 May 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 20 May 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/98/</guid>
       <description>Jag söker nu fler personer som vill hjälpa till med Spelskaparna! Ett programformat vi vill testa är att lyssnare skickar in spel som är under utveckling som vi speltestar och diskuterar i podden.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/97/</link>
-      <pubDate>Wed, 06 May 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 06 May 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/97/</guid>
       <description>I veckans avsnitt av Spelskaparna samtalar jag med en rutinerad herre - Carl-Henrik Skårstedt. Det är alltid lika intressant att höra de gamla rävarna i branschen prata vitt och brett om spel.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/96/</link>
-      <pubDate>Wed, 22 Apr 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 22 Apr 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/96/</guid>
-      <description>Jag söker nu fler personer som vill hjälpa till med Spelskaparna! Är du intresserad, skicka ett mail till info@spelskaparna.se eller kontakta mig på @ollelandin.&#xA;Jag ska lite skamset erkänna att jag kan allt för lite om den norska spelindustrin och personerna som jobbar i den.</description>
+      <description>Jag söker nu fler personer som vill hjälpa till med Spelskaparna! Är du intresserad, skicka ett mail till info@spelskaparna.se eller kontakta mig på @ollelandin.
+Jag ska lite skamset erkänna att jag kan allt för lite om den norska spelindustrin och personerna som jobbar i den.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/95/</link>
-      <pubDate>Wed, 08 Apr 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 08 Apr 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/95/</guid>
       <description>I veckans avsnitt blir det en intervju med Jaan Tallinn som var med och skapade Skype och Kazaa. Men karriären började med att göra spel. Under 90-talet släppte Jaan och hans företag Bluemoon bland annat spelet Skyroads, som var en av mina favoriter under uppväxten.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/94/</link>
-      <pubDate>Wed, 25 Mar 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 25 Mar 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/94/</guid>
       <description>I veckans avsnitt gör vi ett återbesök hos Philip Johansson, ni vet han som gör ett spel, från ax till limpa - helt själv! Vi pratade med honom för ungefär ett halvår sedan och jag kände att det var dags att kolla läget och hur det går helt enkelt.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/93/</link>
-      <pubDate>Wed, 11 Mar 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 11 Mar 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/93/</guid>
       <description>I veckans avsnitt av Spelskaparna samtalar jag med Robert Esbjörnsson som har sin bakgrund i spelutveckling men som nu ägnar sitt yrkesliv åt att lära ut spelskapandets ädla konst till andra.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/92/</link>
-      <pubDate>Wed, 26 Feb 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 26 Feb 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/92/</guid>
       <description>I veckans avsnitt av Spelskaparna samtalar jag med Richard och Christian från A small game. De har nischat in sig på mindre spel och började sitt samarbete med flashspel. Mest känt är kanske deras ”Hanger” som många säkert spelat under sina tidiga år.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/91/</link>
-      <pubDate>Wed, 12 Feb 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 12 Feb 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/91/</guid>
       <description>In this episode we get to hear the story of how the Amiga classics Speedball 2 and The Chaos Engine came to be from the legend Dan Malone himself. Co-hosting this episode is Mattias Kylen who was a guest in Spelskaparna in episode 52.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/90/</link>
-      <pubDate>Wed, 29 Jan 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 29 Jan 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/90/</guid>
       <description>I veckans avsnitt av Spelskaparna pratar jag med Oscar Carlén som jobbar med ljussättning i spel. Vi pratar om ljussättning i allmänhet och om hans erfarenheter från att jobba på spel som Mirror’s Edge, Battlefront, Overwatch och Final Fantasy.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/89/</link>
-      <pubDate>Wed, 15 Jan 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 15 Jan 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/89/</guid>
       <description>Idag blir det ett gästspel med ett avsnitt från min andra podcast Extraliv här i Spelskaparna-flödet. I det här avsnittet kommer vi få ta del av berättelser om spel som aldrig blivit klara, och hur det känns att något du slitit med under lång tid bara förvandlas till luft.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/88/</link>
-      <pubDate>Wed, 01 Jan 2020 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 01 Jan 2020 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/88/</guid>
       <description>I veckans avsnitt av Spelskaparna samtalar jag med Patrick Rose och vi diskuterar en annan aspekt av spelskapande än vad vi kanske är vana vid i de här podden – nämligen den mer affärsmässiga biten.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/87/</link>
-      <pubDate>Wed, 18 Dec 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 18 Dec 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/87/</guid>
       <description>I veckans avsnitt samtalar jag med Mikael Emtinger, en rutinerad herre som varit i spelindustrin under lång tid. Vi pratar om hans karriär, om konkurser och hur det är att klättra nedåt på karriärstegen.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/86/</link>
-      <pubDate>Wed, 04 Dec 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 04 Dec 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/86/</guid>
       <description>I veckans avsnitt av Spelskaparna träffar jag Stefan Holmqvist som under 00-talet drev den svenska spelstudion Amuze, studion bakom spelserien Headhunter. Numera arbetar Stefan på King där hans första uppdrag blev att jobba med megasuccén Candy Crush.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/85/</link>
-      <pubDate>Wed, 20 Nov 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 20 Nov 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/85/</guid>
       <description>Bitar av intervjun med Erik Skog fanns med i avsnitt #71 av Spelskaparna (Nextgen-special). Här kommer intervjun i sin helhet. Erik Skog är ifrån Stockholm, han är 19 år gammalt, men har redan hunnit jobba på en AAA-studio och få ett kontrakt där han har två år på sig att utveckla sitt egna indie-spel - Fight Corp.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/84/</link>
-      <pubDate>Wed, 06 Nov 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 06 Nov 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/84/</guid>
       <description>I veckans avsnitt av Spelskaparna träffar jag Johan Larsby, VD på Pastille. Vi pratar om hur det är att vänta på sin stora hit, att spel inte alltid behöver innehåll blod, våld och vapen samt mycket mer.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/83/</link>
-      <pubDate>Wed, 23 Oct 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 23 Oct 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/83/</guid>
       <description>I veckans avsnitt av Spelskaparna samtalar jag med en rutinerad herre. Niklas Malmqvist började sina dagar i spelbranschen i ett överdimensionerat hus i Tyskland på 80-talet. Han upplevde även Kings resa med Candy Crush.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/82/</link>
-      <pubDate>Wed, 09 Oct 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 09 Oct 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/82/</guid>
       <description>I veckans avsnitt av Spelskaparna samtalar jag med James Vaughan. James Vaughan skapade sitt första spel utan ha någon som helst teknisk kunskap och har fått ta en speciell väg in i spelbranschen.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/81/</link>
-      <pubDate>Fri, 27 Sep 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Fri, 27 Sep 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/81/</guid>
       <description>I veckans avsnitt talar jag med Hugo Bille som bytte teatervärlden mot spelvärlden. Vi gräver oss djupt ner i spels budskap och hur spel kan påverka människor att tänka annorlunda kring den värld vi lever i.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/80/</link>
-      <pubDate>Wed, 25 Sep 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 25 Sep 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/80/</guid>
       <description>Idag blir det ett gästspel med ett avsnitt från min andra podcast Extraliv här i Spelskaparna-flödet. Att isolera sig från omvärlden är ett beprövat knep när man behöver koncentrera sig ordentligt på en uppgift.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/79/</link>
-      <pubDate>Wed, 11 Sep 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 11 Sep 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/79/</guid>
       <description>I veckans avsnitt av spelskaparna samtalar jag med Niklas Smedberg som verkar på andra sidan pölen. Innan vi går in på var han jobbar nu pratar vi om hans yrkesliv som spelutvecklare på bland annat Epic, varför han tappade hakan på grund av Gears of War och om ett hus på den engelska landsbygden.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/78/</link>
-      <pubDate>Wed, 28 Aug 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 28 Aug 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/78/</guid>
       <description>Veckans avsnitt ägnas helt åt Dan Olsson och hans toppar och dalar inom spelbranschen. När han var yngre drabbades han av blodförgiftning och var nära döden. I svallvågorna av detta fick han offra en lovande fotbollskarriär men förälskade sig i spelutveckling.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/77/</link>
-      <pubDate>Wed, 14 Aug 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 14 Aug 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/77/</guid>
-      <description>Nu finns min dokumentärfilm om spelutvecklaren Martin Magni ute, kolla här&#xA;I veckans avsnitt får vi höra Felix af Ekenstam prata om hur han som femtonåring började att jobba som spelskapare, hur han kunnat jobba heltid med sitt egna spel ”Battle of Polytopia och mycket mer.</description>
+      <description>Nu finns min dokumentärfilm om spelutvecklaren Martin Magni ute, kolla här
+I veckans avsnitt får vi höra Felix af Ekenstam prata om hur han som femtonåring började att jobba som spelskapare, hur han kunnat jobba heltid med sitt egna spel ”Battle of Polytopia och mycket mer.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/76/</link>
-      <pubDate>Wed, 07 Aug 2019 14:19:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 07 Aug 2019 14:19:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/76/</guid>
       <description>Notera att detta är avsnitt 2 av 2. Philip Johansson är 19 år gammal och spelutvecklare. Inspirerad av Boken [The making of Prince of Persia](https://www.jordanmechner.com/backstage/journals/) har jag tillsammans med Philip spelat in en slags devlog över utveckling av spelet [Hell Punk Horror](https://philisophic.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/75/</link>
-      <pubDate>Wed, 07 Aug 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 07 Aug 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/75/</guid>
       <description>Philip Johansson är 19 år gammal och spelutvecklare. Inspirerad av Boken [The making of Prince of Persia](https://www.jordanmechner.com/backstage/journals/) har jag tillsammans med Philip spelat in en slags devlog över utveckling av spelet [Hell Punk Horror](https://philisophic.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/74/</link>
-      <pubDate>Wed, 31 Jul 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 31 Jul 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/74/</guid>
       <description>I veckan avsnitt samtalar jag med David Ventura. Han är från USA men har faktiskt bara jobbat där under ett par månader. Snabbt efter plugget flyttade han till Japan och började utveckla musikspel.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/73/</link>
-      <pubDate>Wed, 17 Jul 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 17 Jul 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/73/</guid>
       <description>I veckans avsnitt av Spelskaparna pratar jag med Peter Stråhle. Han är technical artist på Might and Delight. Vi pratar om hans erfarenheter inom spelvärlden, spelet Shelter samt bolagets nya projekt som släpps om ett år.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/72/</link>
-      <pubDate>Wed, 03 Jul 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 03 Jul 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/72/</guid>
       <description>Undrar du hur det skulle vara att bryta sig loss från de stora drakarna och gå sin egen väg genom speldjungeln? En som har gjort just det är Emil Berner.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/71/</link>
-      <pubDate>Wed, 19 Jun 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 19 Jun 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/71/</guid>
       <description>Även om spelmediet fortfarande inte är lika bevakat som andra kulturformer, går det idag att höra många berättelser om framgångsrika spel och deras skapare. Men nästan alltid berättas historierna långt efter det att spelen som skapats blivit succéer.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/70/</link>
-      <pubDate>Wed, 05 Jun 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 05 Jun 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/70/</guid>
       <description>Kuba är kanske mer känt för färgglada bilar, cigarrer och kommunism, men där finns även Josuhe och Ruben som jobbar på att göra Kubas första indie-spel - Savior. Hur är det att växa upp som spelintresserad på Kuba?</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/69/</link>
-      <pubDate>Wed, 22 May 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 22 May 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/69/</guid>
       <description>2009 vann han Talang med sitt trolleri och nu är han på vägarna med sin show Robotricks. Många vet att Charlie Caper är en av Sveriges främsta illusionister. Få känner till hans bakgrund som programmerare.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/68/</link>
-      <pubDate>Wed, 08 May 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 08 May 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/68/</guid>
       <description>I veckans avsnitt pratar jag med Eskil Steenberg som är upphovsmakare till MMORPG:n Love som släpptes 2010, ett spel som är lite annorlunda sett till andra massive multiplayer-spel. Vi får bland annat höra hans tankar om mikrotransaktioner, achievementsystem och om pivot-modellen - Eskils egna metod för att analysera spel.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/67/</link>
-      <pubDate>Wed, 24 Apr 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 24 Apr 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/67/</guid>
       <description>Något som varit en vit fläck på kartan för podden har länge varit just kartor. I veckans avsnitt råder vi bot på detta och pratar med Karl Vesterberg som illustrerar kartor för diverse ändamål, bland annat bräd- och rollspel.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/66/</link>
-      <pubDate>Tue, 09 Apr 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Tue, 09 Apr 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/66/</guid>
       <description>Artur testade livet som programmerare men upptäckte efter ett år att det inte var hans grej. När han går in till sin chef för att säga upp sig erbjuds han istället en roll inom QA (Quality Assurance), ett jobb som visar sig passa honom som handen i handsken.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/65/</link>
-      <pubDate>Wed, 27 Mar 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 27 Mar 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/65/</guid>
       <description>Vi fortsätter med rese-temat i podden och sätter tech-undret Kina under luppen. Gäst är Johan Nylander som är Asienkorrespondent tillika författaren bakom boken Shenzhen Superstars. Fokus i avsnittet hamnar inte så mycket på spel, utan snarare på den utveckling gällande tech som sker där just nu.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/64/</link>
-      <pubDate>Wed, 13 Mar 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 13 Mar 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/64/</guid>
       <description>SPECIAL! Veckans avsnitt av Spelskaparna blir lite annorlunda än vad ni är vana vid. Jag och min kompis Henke har nyligen varit i Japan och ägnade därför en timme åt att sammanfatta dom spelupplevelser vi haft under resans gång.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/63/</link>
-      <pubDate>Wed, 27 Feb 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 27 Feb 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/63/</guid>
       <description>Idag blir det ett gästspel med ett avsnitt från min andra podcast Extraliv här i Spelskaparna-flödet. Välkommen till Extraliv – en podcast om spel, och om vår relation till spelen vi lever med.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/62/</link>
-      <pubDate>Wed, 13 Feb 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 13 Feb 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/62/</guid>
       <description>I detta avsnitt kommer vi samtala om allting kring ljud i spel. Detta tillsammnas med ljuddesignerna David och Kristian som till vardags jobbar på Arrowhead. Vad består bra vapen-ljud av? Hur skapdes Silent Hills obehagliga ljudbild och vad har ljuddesigners för likheter med vampyrer?</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/61/</link>
-      <pubDate>Wed, 30 Jan 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 30 Jan 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/61/</guid>
       <description>I detta special-avsnitt pratar vi mycket teknik och gör ett djupdyk ner i renderingstekniker med voxlar. Spelskaparna gästas av Dennis Gustafsson som har lång erfarenhet av att simulera fysik på olika sätt i spel, inte minst genom spelstudion Mediocre Games där han är en av grundarna.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/60/</link>
-      <pubDate>Wed, 16 Jan 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 16 Jan 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/60/</guid>
       <description>Denna vecka blir det Game design-special i Spelskaparna när podden gästas av Rasmus Künstlicher. Han berättar bland annat om vad hans roll på Massive Entertainment i Malmö innebär och hur man blir en bättre game designer.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/59/</link>
-      <pubDate>Wed, 02 Jan 2019 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 02 Jan 2019 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/59/</guid>
       <description>I detta avsnitt av Spelskaparna får vi en liten inblick i vårt grannland Finlands spelvärld. Gäst är Juha Vainio som numera jobbar som producent på Remedy, men som tidigare bland annat arbetat på Rovio.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/58/</link>
-      <pubDate>Wed, 19 Dec 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 19 Dec 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/58/</guid>
       <description>I denna VR-speical samtalar jag med Ola Björling från Beyond Frames Entertainment vars syfte är att hjälpa spelstudios att utveckla VR-spel. Mycket av samtalet handlar om just VR och de utmaningar man ställs inför när man utvecklar spel i den genren.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/57/</link>
-      <pubDate>Wed, 05 Dec 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 05 Dec 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/57/</guid>
       <description>I veckans avsnitt samtalar jag med Tomas Ahlström på East Sweden Game, en spelinkubator i Linköping. Tomas har ett långt förflutet inom branschen och vi hör honom berätta om hans erfarenheter, bland annat om hur det är att göra ett spel som ännu inte har en målgrupp och hur man blir uppköpt av Second Life-skaparen.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/56/</link>
-      <pubDate>Wed, 21 Nov 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 21 Nov 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/56/</guid>
       <description>Gäst i veckans avsnitt är Sara Casén. Under 2018 släppte hon och hennes företag Midnight Hub spelet Lake Ridden. Utöver det spelet pratar vi även om hennes resa in i spelbranschen som community manager och dataanalytiker.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/55/</link>
-      <pubDate>Wed, 07 Nov 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 07 Nov 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/55/</guid>
       <description>från Bingolotto till AAA</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/54/</link>
-      <pubDate>Wed, 24 Oct 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 24 Oct 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/54/</guid>
       <description>Superjammer of the year 2016</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/53/</link>
-      <pubDate>Wed, 10 Oct 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 10 Oct 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/53/</guid>
       <description>Den tekniska artisten som gick indie och skapade Bad North</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/52/</link>
-      <pubDate>Wed, 26 Sep 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 26 Sep 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/52/</guid>
       <description>industriveteranen som specialiserat sig på environmental art</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/51/</link>
-      <pubDate>Wed, 12 Sep 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 12 Sep 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/51/</guid>
       <description>utvecklaren som valde att animera i ASCII</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/50/</link>
-      <pubDate>Wed, 29 Aug 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 29 Aug 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/50/</guid>
       <description>En podcast om spel och vår relation till spelen vi lever med</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/49/</link>
-      <pubDate>Wed, 15 Aug 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 15 Aug 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/49/</guid>
       <description>mannen bakom genren Grand Strategy</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/48/</link>
-      <pubDate>Wed, 01 Aug 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 01 Aug 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/48/</guid>
       <description>grundaren av Massive</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/47/</link>
-      <pubDate>Wed, 18 Jul 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 18 Jul 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/47/</guid>
       <description>Ljuddesignerna och kompositörerna bakom bland annat Aragami och Angry Birds 2</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/46/</link>
-      <pubDate>Wed, 04 Jul 2018 15:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 04 Jul 2018 15:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/46/</guid>
       <description>spelutvecklaren som jobbad från Tanzania utan ström</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/45/</link>
-      <pubDate>Wed, 04 Jul 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 04 Jul 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/45/</guid>
       <description>spelutvecklaren som jobbad från Tanzania utan ström</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/44/</link>
-      <pubDate>Wed, 20 Jun 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 20 Jun 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/44/</guid>
       <description>tools-utvecklaren som besökt alla spelföretag</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/43/</link>
-      <pubDate>Wed, 06 Jun 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 06 Jun 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/43/</guid>
       <description>från flash-spel till AAA</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/42/</link>
-      <pubDate>Wed, 23 May 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 23 May 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/42/</guid>
       <description>barnspelsföretagaren som införde sex timmars arbetsdag</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/41/</link>
-      <pubDate>Wed, 09 May 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 09 May 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/41/</guid>
       <description>småbarnspappan som gör spel med sin fru</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/40/</link>
-      <pubDate>Wed, 25 Apr 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 25 Apr 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/40/</guid>
       <description>ett Spelkollektiv i djupaste Småland</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/39/</link>
-      <pubDate>Wed, 11 Apr 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 11 Apr 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/39/</guid>
       <description>Från chef på stora DICE till liten spelpublisher</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/38/</link>
-      <pubDate>Wed, 28 Mar 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 28 Mar 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/38/</guid>
       <description>Duon bakom spelet the Captain</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/37/</link>
-      <pubDate>Wed, 14 Mar 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 14 Mar 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/37/</guid>
       <description>Ansiktet utåt för det svenska spelundret</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/36/</link>
-      <pubDate>Wed, 28 Feb 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 28 Feb 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/36/</guid>
       <description>3D-Artisten som gått från indie till AAA</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/35/</link>
-      <pubDate>Wed, 14 Feb 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 14 Feb 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/35/</guid>
       <description>Mannen bakom Amnesia och SOMA</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/34/</link>
-      <pubDate>Wed, 31 Jan 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 31 Jan 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/34/</guid>
       <description>VD på VR-studion bakom Wands</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/33/</link>
-      <pubDate>Wed, 17 Jan 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 17 Jan 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/33/</guid>
       <description>Skarpar story och världar på Tarsier Studios</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/32/</link>
-      <pubDate>Wed, 03 Jan 2018 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 03 Jan 2018 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/32/</guid>
       <description>Ena halvan av spelstudion Simogo, bakom spel som Year Walk och Device 6</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/31/</link>
-      <pubDate>Wed, 20 Dec 2017 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 20 Dec 2017 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/31/</guid>
       <description>Jobbat med hand key animationer på Lionhead studios. Nu på Fatshark</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/30/</link>
-      <pubDate>Wed, 06 Dec 2017 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 06 Dec 2017 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/30/</guid>
       <description>Jim har jobbat med spel i Göteborg, San Francisco och Los Angeles</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/29/</link>
-      <pubDate>Sun, 06 Aug 2017 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Sun, 06 Aug 2017 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/29/</guid>
       <description>Historien om hur Quizkampen och FEO Media kom till</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/28/</link>
-      <pubDate>Sun, 23 Jul 2017 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Sun, 23 Jul 2017 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/28/</guid>
       <description>Linus berättar om sin ganska färska resa in i branschen</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/27/</link>
-      <pubDate>Sun, 04 Jun 2017 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Sun, 04 Jun 2017 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/27/</guid>
       <description>Lars Gustavsson är lite vad man skulle kunna kalla för &amp;ldquo;Mr Battlefield&amp;rdquo;</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/26/</link>
-      <pubDate>Sun, 26 Mar 2017 14:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Sun, 26 Mar 2017 14:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/26/</guid>
       <description>Martin Jonasson är mannen bakom aliaset Grapefrukt och spel så som Rymdkapsel och twofold inc</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/25/</link>
-      <pubDate>Wed, 22 Feb 2017 01:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 22 Feb 2017 01:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/25/</guid>
       <description>Robert Kreese har gjort musiken till nyligen släppt NES-inspirerade spelet Alwa&amp;rsquo;s Awakening</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/24/</link>
-      <pubDate>Wed, 08 Feb 2017 01:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 08 Feb 2017 01:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/24/</guid>
       <description>Var med och startade Team17 och jobbar nu på King</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/23/</link>
-      <pubDate>Wed, 25 Jan 2017 01:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 25 Jan 2017 01:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/23/</guid>
       <description>Grundare till företaget bakom SteamWorld-serien</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/22/</link>
-      <pubDate>Tue, 10 Jan 2017 01:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Tue, 10 Jan 2017 01:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/22/</guid>
       <description>Spelutvecklare från 12 års ålder</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/21/</link>
-      <pubDate>Wed, 28 Dec 2016 01:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 28 Dec 2016 01:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/21/</guid>
       <description>Programmerare och grundare av Landfall Games</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/20/</link>
-      <pubDate>Wed, 14 Dec 2016 01:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 14 Dec 2016 01:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/20/</guid>
       <description>Ena halvan av duon bakom Hotline Miami 1&amp;amp;2</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/19/</link>
-      <pubDate>Wed, 30 Nov 2016 01:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 30 Nov 2016 01:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/19/</guid>
       <description>Speldesignern bakom Leo&amp;rsquo;s Fortune och Devil&amp;rsquo;s Attorney</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/18/</link>
-      <pubDate>Wed, 16 Nov 2016 01:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 16 Nov 2016 01:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/18/</guid>
       <description>Anställd #1 på Mojang</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/17/</link>
-      <pubDate>Wed, 02 Nov 2016 01:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 02 Nov 2016 01:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/17/</guid>
       <description>Programmeraren, speldesignern och grafikern bakom succéen Mekorama</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/16/</link>
-      <pubDate>Wed, 14 Sep 2016 01:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 14 Sep 2016 01:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/16/</guid>
       <description>Åsa Roos är spel-designern som för tillfället arbetar med UX-design tillsammans med sina idoler på Bioware i Kanada. Tidigare har hon bland annat jobbat på Avalanche och UDS. Det blir snack om hur tools och andra verktyg skiljer sig mellan företag samt hur Åsa strävar för att göra spel som inte är exkluderande.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/15/</link>
-      <pubDate>Wed, 31 Aug 2016 01:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 31 Aug 2016 01:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/15/</guid>
       <description>Kompositör och ljuddesigner tillika medgrundare av DICE</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/14/</link>
-      <pubDate>Wed, 17 Aug 2016 17:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 17 Aug 2016 17:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/14/</guid>
       <description>VD och grundare av the Station. Var tidigare VD för Tarsier Studios</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/13/</link>
-      <pubDate>Wed, 03 Aug 2016 17:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 03 Aug 2016 17:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/13/</guid>
       <description>Tidigare jobbat på Backpacker 2, numera jobb med spel på Skövde Högskola.</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/12/</link>
-      <pubDate>Wed, 20 Jul 2016 17:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 20 Jul 2016 17:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/12/</guid>
       <description>Grundare av Zordix, men var med redan på Day Dream Interactive</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/11/</link>
-      <pubDate>Wed, 06 Jul 2016 17:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 06 Jul 2016 17:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/11/</guid>
       <description>Speldesigner på Coldwood och spirtuell pappa till Yarny och Unravel</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/10/</link>
-      <pubDate>Wed, 22 Jun 2016 17:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 22 Jun 2016 17:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/10/</guid>
       <description>En av två personer bakom spelet the Dream Machine</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/9/</link>
-      <pubDate>Wed, 08 Jun 2016 17:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 08 Jun 2016 17:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/9/</guid>
       <description>Grundare av Avalanche Studios och skapare av Just Cause serien</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/8/</link>
-      <pubDate>Wed, 25 May 2016 17:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 25 May 2016 17:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/8/</guid>
       <description>Medgrundare av DICE och numera även av Shanghai-baserade Directive Games</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/7/</link>
-      <pubDate>Wed, 11 May 2016 00:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 11 May 2016 00:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/7/</guid>
       <description>Medgrundare av Mediocre Games som ligger bakom bland annat Smash Hit och Does not Commute</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/6/</link>
-      <pubDate>Wed, 27 Apr 2016 17:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 27 Apr 2016 17:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/6/</guid>
       <description>Utvecklare på Uprise, tidigare på UDS och Amuze</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/5/</link>
-      <pubDate>Wed, 13 Apr 2016 17:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 13 Apr 2016 17:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/5/</guid>
       <description>Startade indiestudion Collecting Smiles, har även jobbat som utvecklare på Starbreeze och LucasArts</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/4/</link>
-      <pubDate>Wed, 30 Mar 2016 17:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 30 Mar 2016 17:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/4/</guid>
       <description>Var med tidigt som utvecklare på UDS, numera konsult på HiQ</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/3/</link>
-      <pubDate>Wed, 16 Mar 2016 17:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 16 Mar 2016 17:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/3/</guid>
       <description>Teknikchef på MachineGames, tidigare utvecklare på Starbreeze och Amuze</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/2/</link>
-      <pubDate>Wed, 02 Mar 2016 17:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 02 Mar 2016 17:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/2/</guid>
       <description>Programmerare på Headhunter och Headhunter Redemption</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/1/</link>
-      <pubDate>Wed, 17 Feb 2016 17:09:44 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <pubDate>Wed, 17 Feb 2016 17:09:44 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/1/</guid>
       <description>VD på Zoink Games, tidigare grafiker på Shiny Entertainment och UDS</description>
     </item>
+    
   </channel>
 </rss>
