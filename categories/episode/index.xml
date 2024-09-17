@@ -9,8 +9,15 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 04 Sep 2024 10:44:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 10:44:47 +0000</lastBuildDate>
     <atom:link href="https://spelskaparna.com/categories/episode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/168/</link>
+      <pubDate>Wed, 18 Sep 2024 10:44:47 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/168/</guid>
+      <description>I dagens avsnitt återser vid Shailesh Prabhu som var med i avsnitt 163. Denna gången kommer vi prata om spelutveckling i indien, världens folkrikaste land! Bland mycket annat blir det snack om cricketspel, indisk poker och piratkopian till Nintendo 8-bit - Samurai.</description>
+    </item>
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/167/</link>
@@ -24,13 +31,6 @@
       <pubDate>Tue, 18 Jun 2024 10:44:47 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
       <guid>https://spelskaparna.com/episode/166/</guid>
       <description>Dagens gäst är Karl Zylinksi som nyligen släppt spelet Cat and Onion, men innan det har han jobbat som programmerare för bland annat Our Machinery och BitSquid samt spel som A Way Out och Soulbound.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://spelskaparna.com/episode/168/</link>
-      <pubDate>Tue, 18 Jun 2024 10:44:47 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
-      <guid>https://spelskaparna.com/episode/168/</guid>
-      <description>The guest today is the game designer Shailesh Parbhu who also was here in episode 163 where we talked about AAA vs indie game development. Today we are going to talk about Game Development in India.</description>
     </item>
     <item>
       <title></title>
