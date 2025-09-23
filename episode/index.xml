@@ -9,8 +9,15 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 02 Oct 2024 10:44:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 10:44:47 +0000</lastBuildDate>
     <atom:link href="https://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/170/</link>
+      <pubDate>Wed, 24 Sep 2025 10:44:47 +0000</pubDate><author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/170/</guid>
+      <description>Gäst idag är Björn Ottosson som jobbar som programmeringslärare på The Game Assembly. Björn har varit länge i branschen och bland annat jobbat tio år med DICE spelmotor Frostbite. I avsnittet gör vi ett djupdyk i hur det är att lära ut spelutveckling och spelprogrammering.</description>
+    </item>
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/169/</link>
