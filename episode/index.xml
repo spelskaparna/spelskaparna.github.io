@@ -9,7 +9,133 @@
     <managingEditor>info@spelskaparna.se (Olof Landin)</managingEditor>
     <webMaster>info@spelskaparna.se (Olof Landin)</webMaster>
     <copyright>Copyright (c) 2016, Olof Landin; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 13 Mar 2024 10:44:47 +0000</lastBuildDate><atom:link href="https://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Nov 2025 10:44:47 +0000</lastBuildDate><atom:link href="https://spelskaparna.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/173/</link>
+      <pubDate>Wed, 05 Nov 2025 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/173/</guid>
+      <description>Gäster idag är killarna bakom Idno Interactive som jobbar med sitt första spel - pusselspelet Swap. De gör inte bara spelet själva utan även den underliggande spelmotorn som är skriven i Rust.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/172/</link>
+      <pubDate>Wed, 22 Oct 2025 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/172/</guid>
+      <description>Gäster idag är Tobias och Niklas som ligger bakom Space Chef - ett Stardew Valley-inspirerat matlagningsspel i rymden som släpps 2025. Spelet kombinerar äventyr och matlagning där spelaren utforskar planeter, jagar djur och lagar mat till hungriga kunder.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/171/</link>
+      <pubDate>Wed, 08 Oct 2025 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/171/</guid>
+      <description>Gäst idag är Pontus Rundqvist från Raw Fury som jobbar med marketing. Pontus började sin resa mot spelbranschen på Dreamhack där han arrangerade Dreamhackathons och Pokémon-turneringar. Efter tiden på Paradox som Product Marketing Manager arbetar han nu som Brand Manager på Raw Fury.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/170/</link>
+      <pubDate>Wed, 24 Sep 2025 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/170/</guid>
+      <description>Gäst idag är Björn Ottosson som jobbar som programmeringslärare på The Game Assembly. Björn har varit länge i branschen och bland annat jobbat tio år med DICE spelmotor Frostbite. I avsnittet gör vi ett djupdyk i hur det är att lära ut spelutveckling och spelprogrammering.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/169/</link>
+      <pubDate>Wed, 02 Oct 2024 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/169/</guid>
+      <description>Gäst idag är faktiskt inte en person som gör spel, utan en filmmakare, nämligen Jonathan Duek som är aktuell med en dokumentärfilm om Spelkollektivet. Spelkollektivet så är det ett co-living-boende utanför Växjö där spelutvecklare från hela världen samlas för att skapa spel.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/168/</link>
+      <pubDate>Wed, 18 Sep 2024 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/168/</guid>
+      <description>I dagens avsnitt återser vid Shailesh Prabhu som var med i avsnitt 163. Denna gången kommer vi prata om spelutveckling i indien, världens folkrikaste land! Bland mycket annat blir det snack om cricketspel, indisk poker och piratkopian till Nintendo 8-bit - Samurai.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/167/</link>
+      <pubDate>Wed, 04 Sep 2024 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/167/</guid>
+      <description>Gäst idag är Peter Lübeck som varit COO på Tarsier och bland annat jobbat med LittleBigPlanet. Numera är han VD för organisationen Game Habitat, som är ett community för spelutvecklare i södra Sverige där över 40 bolag är medlemmar.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/166/</link>
+      <pubDate>Tue, 18 Jun 2024 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/166/</guid>
+      <description>Dagens gäst är Karl Zylinksi som nyligen släppt spelet Cat and Onion, men innan det har han jobbat som programmerare för bland annat Our Machinery och BitSquid samt spel som A Way Out och Soulbound.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/165/</link>
+      <pubDate>Wed, 05 Jun 2024 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/165/</guid>
+      <description>Idag är Ola Ringhdal gästprogramledare och pratar med Raoul Hamilton en av grundarna bakom Speechless - helhetslösningen för att organisera röster i spel. Bland annat pratar vi om hur AI kan användas för att snabbt generera place holders av ett manus, hur speechless kan användas för att få kontakt med riktiga röstskådelspelare och hur framtiden ser ut för röster i spel.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/164/</link>
+      <pubDate>Wed, 22 May 2024 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/164/</guid>
+      <description>Dagens gäst är Stefan Persson , en spelutvecklare med många strängar på sin lyra. Stefan ligger bakom spelet Line War, men även YouTube-kanalen Imphenzia som handlar om spelutveckling och även innehåller tutorials för bland annat Unity och Blender.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/163/</link>
+      <pubDate>Wed, 08 May 2024 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/163/</guid>
+      <description>Dagens gäst är Shailesh Parbhu som drev sin egen indiestudio i 10 år och efter det jobbat med speldesign på AAA-företagen Sharkmob och Embark. Följ med på en djupdykning ner i fördelar och nackdelar med AAA- indieutveckling.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/162/</link>
+      <pubDate>Wed, 24 Apr 2024 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/162/</guid>
+      <description>Gäst idag är Dominic Ninmark som gör ljud och musik till vardags. Han har även gjort character design till Spelet Gravity Circuit som sålts i över 60 tusen exemplar. Vi pratar om byggstenarna bakom 8-bitarsmusik, hur den kreativa processen ser ut för att skapa musik till spel och om utvecklingen av det Mega Man-flirande spelet Gravity Circuit.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/161/</link>
+      <pubDate>Tue, 09 Apr 2024 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/161/</guid>
+      <description>Gäst idag är Henrik Sallander som är medgrundare och CTO på Gro Play som gjort många fina barnspel de senaste 10 åren. I Gro Plays portfolio finns bland annat Bolibompa, LasseMajas Detektivbyrå och Lek ABC, Alfons Åberg.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spelskaparna.com/episode/160/</link>
+      <pubDate>Wed, 27 Mar 2024 10:44:47 +0000</pubDate>
+      <author>info@spelskaparna.se (Olof Landin)</author>
+      <guid>https://spelskaparna.com/episode/160/</guid>
+      <description>I dagens avsnitt dyker vi in i den spännande världen av DCOP – en adrenalinfylld on-rails shooter som utmärker sig genom sin användning av FMV, det vill säga Full Motion Video.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://spelskaparna.com/episode/159/</link>
